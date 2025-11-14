@@ -1,0 +1,62 @@
+/* 分类侧边栏样式 */
+.card-categories {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.card-categories .categories-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 定义三列布局 */
+  gap: 10px; /* 按钮之间的间距 */
+}
+
+.card-categories .category-item {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+  background-color: var(--efu-card-bg);
+  color: var(--efu-fontcolor);
+  text-decoration: none;
+  font-size: 14px;
+  transition: all 0.3s ease;
+}
+
+.card-categories .category-item:hover {
+  background-color: rgba(var(--efu-theme), 0.5);
+  border-color: var(--efu-theme);
+  color: var(--efu-theme);
+}
+
+/* 容器包裹样式 */
+.drawguess-container-wrapper {
+    display: flex; /* 使用 Flexbox 布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center; /* 垂直居中 */
+    height: 100vh; /* 占满视口高度 */
+}
+
+/* 图片的外层容器样式 */
+.drawguess-container {
+    display: flex; /* 使用 Flexbox 布局 */
+    flex-wrap: wrap; /* 允许换行 */
+    gap: 10px; /* 子元素之间的间距 */
+    justify-content: center; /* 内容居中对齐 */
+}
+
+/* 包裹图片的 p 标签样式 */
+.drawguess-container p {
+    width: 300px; /* 固定宽度 */
+    margin: 0; /* 清除默认外边距 */
+    text-align: center; /* 可选：如果 p 标签有文字，可以让文字居中 */
+}
+
+/* 图片样式 */
+.drawguess-container p img {
+    width: 100%; /* 图片宽度填充父容器 */
+    height: auto; /* 保持宽高比 */
+    display: block; /* 避免图片下方多余空隙 */
+}
