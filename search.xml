@@ -610,52 +610,6 @@ Android操作步骤Android端使用 Zarchiver Pro 来解密解压，警惕收费
       </categories>
   </entry>
   <entry>
-    <title>【分享】【搬运】关于汉化游戏后期的测试</title>
-    <url>/5e447c8b/</url>
-    <content><![CDATA[转载自TGbus
-​	(前排提示，原贴图片已失效)
-　RO 的第一阶段测试已经完成了，RO这次的量可是为相当的大，对话太多了。。看的我都懵了，不过还好有很多有经验的玩家朋友加入到这次的后期测试工作中来，让人感觉轻松了不少，我写这个帖子的目的就是给大家分享和交流一下测试的过程，希望大家能看看，多交流一下，为我们能更高，更有效率的工作，以及能更快的推出汉化作品。
-　　好了，那么我就开始讲游戏测试的过程吧。（全部以RO为例）
-　　刚开始我们都会提供给大家汉化游戏的补丁以及汉化后的文本，这是最基本的2个文件。
-1.关于补丁的使用　　当拿到补丁后，当然要先将原来未汉化的版本下载到自己的主机里，然后运行补丁
-
-这里会给大家个提示信息：
-补丁使用方法：1、将日文原版ROM命名为：仙境传说.nds　日文原版ROM下载地址：2、选择ROM所在文件夹进行补丁即可
-　　当然，因为是内测版，所以某人偷懒没有放上去日文原版ROM的下载地址，同学们可以自己去找。
-　　在这里指定我们游戏解压后的ROM的存放地址，而且命名要按照提示信息里的改为仙境传说.nds
-　　选择好路径后点确定就可以将原来未汉化的版本变为汉化后的版本啦。
-2.然后是关于汉化后的文本文件的　　我们也是先将文本文件解压到一个目录下，当我们在对话中看到有问题的语句时，我们就可以通过搜索来查找游戏中有问题的文本啦。这里给大家举个例子：
-　　从这个对话中我们可以看出，对话在第二行的右边出框，并且在第三行还有超行的情况，这是因为我名字起的比较长，而当时在汉化过程中没有注意到这种情况而造成的，这样，我们记录下这样的一句话：“就算我不在，也要和”。然后使用查找功能
-
-　　我们就可以查到有该段对话的文本了
-　　然后打开查找到的文件，再次使用搜索，我们就可以找到那段对话啦
-
-　　到这里，我们就算定位到出问题的地方了，然后我们打开WORD，将有问题的地方记录下来
-　　当然，怎么改还是看大家啦~~
-在测试中需要检查的地方：
-语句是否通顺。
-上下文的关联是否正确。
-是否有超行或者出框的情况。
-错别字。
-名称是否统一。例如：人名，地名。
-是否有死机的地方？？有的话需要提供存档给破解人员进行处
-理。
-如果出现乱码或者花屏，就需要将图片截取下来，并且提交存档给破解人员。
-
-需要注意的地方：　　人物起名的时候一定要起到最大的字符数，这样才能有效的验证文本，避免出现我所举例子中的出框或者超行的情况
-　　在游戏测试过程中，需要将每一个环节都测试到，当然包括所有的主线剧情，支线剧情，所有的公会任务，所有的系统内容，反正只要是翻译过的地方都要碰到，并且检查一遍，这样才能保证最后发布的时候减少问题的出现。
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>教程</tag>
-        <tag>测试</tag>
-        <tag>搬运</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【同人中文】星之终途后日谈：渺茫希望的日记</title>
     <url>/daa0ec08/</url>
     <content><![CDATA[
@@ -729,57 +683,49 @@ Baidu e1zr 123 5ebn 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【安卓】AIR</title>
-    <url>/a3d73386/</url>
-    <content><![CDATA[
+    <title>【分享】【搬运】关于汉化游戏后期的测试</title>
+    <url>/5e447c8b/</url>
+    <content><![CDATA[转载自TGbus
+​	(前排提示，原贴图片已失效)
+　RO 的第一阶段测试已经完成了，RO这次的量可是为相当的大，对话太多了。。看的我都懵了，不过还好有很多有经验的玩家朋友加入到这次的后期测试工作中来，让人感觉轻松了不少，我写这个帖子的目的就是给大家分享和交流一下测试的过程，希望大家能看看，多交流一下，为我们能更高，更有效率的工作，以及能更快的推出汉化作品。
+　　好了，那么我就开始讲游戏测试的过程吧。（全部以RO为例）
+　　刚开始我们都会提供给大家汉化游戏的补丁以及汉化后的文本，这是最基本的2个文件。
+1.关于补丁的使用　　当拿到补丁后，当然要先将原来未汉化的版本下载到自己的主机里，然后运行补丁
 
-制作公司：Visual Art’s &#x2F; Key
+这里会给大家个提示信息：
+补丁使用方法：1、将日文原版ROM命名为：仙境传说.nds　日文原版ROM下载地址：2、选择ROM所在文件夹进行补丁即可
+　　当然，因为是内测版，所以某人偷懒没有放上去日文原版ROM的下载地址，同学们可以自己去找。
+　　在这里指定我们游戏解压后的ROM的存放地址，而且命名要按照提示信息里的改为仙境传说.nds
+　　选择好路径后点确定就可以将原来未汉化的版本变为汉化后的版本啦。
+2.然后是关于汉化后的文本文件的　　我们也是先将文本文件解压到一个目录下，当我们在对话中看到有问题的语句时，我们就可以通过搜索来查找游戏中有问题的文本啦。这里给大家举个例子：
+　　从这个对话中我们可以看出，对话在第二行的右边出框，并且在第三行还有超行的情况，这是因为我名字起的比较长，而当时在汉化过程中没有注意到这种情况而造成的，这样，我们记录下这样的一句话：“就算我不在，也要和”。然后使用查找功能
 
-发售日期：2000&#x2F;09&#x2F;08
+　　我们就可以查到有该段对话的文本了
+　　然后打开查找到的文件，再次使用搜索，我们就可以找到那段对话啦
 
-企画：麻枝准
+　　到这里，我们就算定位到出问题的地方了，然后我们打开WORD，将有问题的地方记录下来
+　　当然，怎么改还是看大家啦~~
+在测试中需要检查的地方：
+语句是否通顺。
+上下文的关联是否正确。
+是否有超行或者出框的情况。
+错别字。
+名称是否统一。例如：人名，地名。
+是否有死机的地方？？有的话需要提供存档给破解人员进行处
+理。
+如果出现乱码或者花屏，就需要将图片截取下来，并且提交存档给破解人员。
 
-脚本：麻枝准、凉元悠一、イシカワタカシ、魁
-
-原画：樋上至
-
-音乐：折户伸治、户越まごめ、麻枝准
-
-
-▼ 故事简介：夏天，在靠近海边小小的街道上，一位青年从公共汽车站下车了 ，青年一直在旅行中，这样的小镇他无心久留，在赚足了路费后，他会去那些更繁华的地方，他的旅伴是母亲留给他的小小的人偶，他不用手接触，人偶就能动起来，从母亲那里继承了这种魔法。 靠着表演人偶维生，他的旅途才一直能继续着，青年给孩子们表演着人偶戏，然而，简陋的人偶无法吸引孩子们，没有得到报酬的他，无力地站在夏天的烈日下，迷迷糊糊地睡着了……
-就在这条海边的街上，青年和命运中的少女相遇了……
-那就像是天空的颜色。透明而执着地蔚蓝着。对爱来说，没有什么数不清的颜色。 女孩子们喜欢这样幸福地微笑。她们用自己的方式信仰着天空。 佳乃，观铃……
-诅咒。命运。爱。旅人。交织在一起，于是变成一根寄托着希望的白色羽毛。 于是就这样不由自主地留下了眼泪，为爱，为幸福，为她们和他们的一切努力。 每个人都应该看一看。AIR，属于所有有梦想的人的，青空。
-测试图
-
-
-
-琉璃花色移植组移植
-下载链接
-度盘 k2x8
-123 NjJg
-Pikpak 9u7r
-
-解压密码：月谣
-联动汉化硬盘版
-【汉化】AIR
-安卓移植版
-【安卓】AIR
+需要注意的地方：　　人物起名的时候一定要起到最大的字符数，这样才能有效的验证文本，避免出现我所举例子中的出框或者超行的情况
+　　在游戏测试过程中，需要将每一个环节都测试到，当然包括所有的主线剧情，支线剧情，所有的公会任务，所有的系统内容，反正只要是翻译过的地方都要碰到，并且检查一遍，这样才能保证最后发布的时候减少问题的出现。
 ]]></content>
       <categories>
-        <category>视觉小说</category>
-        <category>安卓</category>
+        <category>搬运</category>
       </categories>
       <tags>
-        <tag>Key</tag>
-        <tag>Visual Art&#39;s</tag>
-        <tag>麻枝准</tag>
-        <tag>凉元悠一</tag>
-        <tag>イシカワタカシ</tag>
-        <tag>魁</tag>
-        <tag>樋上至</tag>
-        <tag>折户伸治</tag>
-        <tag>户越まごめ</tag>
+        <tag>汉化</tag>
+        <tag>教程</tag>
+        <tag>测试</tag>
+        <tag>搬运</tag>
       </tags>
   </entry>
   <entry>
@@ -844,6 +790,60 @@ Baidu l77r 123 tVIS
         <tag>青桔移植组</tag>
         <tag>八宝備仁</tag>
         <tag>吉祥寺ドロレス</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【安卓】AIR</title>
+    <url>/a3d73386/</url>
+    <content><![CDATA[
+
+制作公司：Visual Art’s &#x2F; Key
+
+发售日期：2000&#x2F;09&#x2F;08
+
+企画：麻枝准
+
+脚本：麻枝准、凉元悠一、イシカワタカシ、魁
+
+原画：樋上至
+
+音乐：折户伸治、户越まごめ、麻枝准
+
+
+▼ 故事简介：夏天，在靠近海边小小的街道上，一位青年从公共汽车站下车了 ，青年一直在旅行中，这样的小镇他无心久留，在赚足了路费后，他会去那些更繁华的地方，他的旅伴是母亲留给他的小小的人偶，他不用手接触，人偶就能动起来，从母亲那里继承了这种魔法。 靠着表演人偶维生，他的旅途才一直能继续着，青年给孩子们表演着人偶戏，然而，简陋的人偶无法吸引孩子们，没有得到报酬的他，无力地站在夏天的烈日下，迷迷糊糊地睡着了……
+就在这条海边的街上，青年和命运中的少女相遇了……
+那就像是天空的颜色。透明而执着地蔚蓝着。对爱来说，没有什么数不清的颜色。 女孩子们喜欢这样幸福地微笑。她们用自己的方式信仰着天空。 佳乃，观铃……
+诅咒。命运。爱。旅人。交织在一起，于是变成一根寄托着希望的白色羽毛。 于是就这样不由自主地留下了眼泪，为爱，为幸福，为她们和他们的一切努力。 每个人都应该看一看。AIR，属于所有有梦想的人的，青空。
+测试图
+
+
+
+琉璃花色移植组移植
+下载链接
+度盘 k2x8
+123 NjJg
+Pikpak 9u7r
+
+解压密码：月谣
+联动汉化硬盘版
+【汉化】AIR
+安卓移植版
+【安卓】AIR
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>安卓</category>
+      </categories>
+      <tags>
+        <tag>Key</tag>
+        <tag>Visual Art&#39;s</tag>
+        <tag>麻枝准</tag>
+        <tag>凉元悠一</tag>
+        <tag>イシカワタカシ</tag>
+        <tag>魁</tag>
+        <tag>樋上至</tag>
+        <tag>折户伸治</tag>
+        <tag>户越まごめ</tag>
       </tags>
   </entry>
   <entry>
@@ -1507,6 +1507,47 @@ Baidu 74v7 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【官中】H9：ORIGIN</title>
+    <url>/dc8663b7/</url>
+    <content><![CDATA[
+
+品牌：Ge-saku
+
+发售日期：2025-11-30
+
+类型：ADV &#x2F; 官方中文
+
+原画：ヨネ
+
+剧本：長井知佳
+
+
+『 H9：ORIGIN 』
+▼ 故事简介这是一款在20世纪末停止发售、无人知晓的幻之美少女游戏。其内容低俗且粗制滥造，是任谁都会断言为“垃圾游戏（粪作）”的东西。但唯一令人费解的是，其中存在着被后世技术强力封印的数据。
+是谁，又是为了什么，制作了这样的游戏？玩家将通过脱衣猜拳——即“野球拳”，突破层层保护，逼近被埋葬在黑暗中的真相。
+▼ 测试图
+        
+      
+
+▼ 官方中文🔗DLsite
+[251130][WorldMap] H9：ORIGIN DL版 [官中] (files) [v56439] edcs
+Baidu c53j 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>全年龄</tag>
+        <tag>Ge-saku</tag>
+        <tag>ヨネ</tag>
+        <tag>長井知佳</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】HAPPY SAIN† SHEOL</title>
     <url>/b4e55afa/</url>
     <content><![CDATA[
@@ -1698,8 +1739,8 @@ Baidu  123 79SX 微软直链
       <tags>
         <tag>官方中文</tag>
         <tag>Key</tag>
-        <tag>魁</tag>
         <tag>ADV</tag>
+        <tag>魁</tag>
         <tag>VISUAL ARTS</tag>
         <tag>樋上いたる</tag>
         <tag>中村綴</tag>
@@ -1795,8 +1836,8 @@ Baidu 8gou 123 z5GA 微软直链
       <tags>
         <tag>官方中文</tag>
         <tag>Key</tag>
-        <tag>麻枝准</tag>
         <tag>ADV</tag>
+        <tag>麻枝准</tag>
         <tag>樋上いたる</tag>
         <tag>久弥直樹</tag>
       </tags>
@@ -2755,6 +2796,33 @@ Baidu 5avn 直链 微软直链
       </tags>
   </entry>
   <entry>
+    <title>【官中】Sakura Succubus 8</title>
+    <url>/cf46b004/</url>
+    <content><![CDATA[
+标题： Sakura Succubus 8类型： 休闲、模拟开发者： Winged Cloud发行商： Winged Cloud发行日期： 2020 年 3 月 31 日Steam： https://store.steampowered.com/app/1202310/Sakura_Succubus&#x2F;
+官中发行日期：2024年1月15日
+游戏介绍小笠原弘树是一个彻头彻尾的普通人。作为一名摄影师，他每天工作时间长、要求高，而且一直受到暴虐老板的监督。
+弘树靠着微薄的薪水生活在东京市中心的一间破旧的小公寓里，靠吃方便面维持生计。
+他的生活简直称不上“光鲜亮丽”……
+直到有一天，他接到了为日本顶级偶像生江亚优拍照的任务。
+一件事接一件事，弘树很快发现自己受到了三位美女的摆布——她们都是名人。其中有可爱的偶像 Ayu、性感的女商人 Marina 和头脑简单的社交媒体明星 Cosmos。他们都是有钱有名，而且天赋极高，应该是高不可攀的……
+但是，出于某种原因，他们对广树有着无法满足的吸引力！
+据玛丽娜说，这三个女人都是魅魔，她们觉得广树的气味令人陶醉。他们对他爱不释手——很快，弘树的平均生活就变得一团糟。
+
+[240115][Winged Cloud] Sakura Succubus 8 (files) pdev
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>Winged Cloud</tag>
+        <tag>Sakura Succubus</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】Sakura Isekai Adventure</title>
     <url>/ae1c871c/</url>
     <content><![CDATA[
@@ -2795,36 +2863,9 @@ Baidu 5avn 直链 微软直链
         <tag>ADV</tag>
         <tag>百合</tag>
         <tag>无码</tag>
+        <tag>Winged Cloud</tag>
         <tag>步兵</tag>
-        <tag>Winged Cloud</tag>
         <tag>樱花系列</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【官中】Sakura Succubus 8</title>
-    <url>/cf46b004/</url>
-    <content><![CDATA[
-标题： Sakura Succubus 8类型： 休闲、模拟开发者： Winged Cloud发行商： Winged Cloud发行日期： 2020 年 3 月 31 日Steam： https://store.steampowered.com/app/1202310/Sakura_Succubus&#x2F;
-官中发行日期：2024年1月15日
-游戏介绍小笠原弘树是一个彻头彻尾的普通人。作为一名摄影师，他每天工作时间长、要求高，而且一直受到暴虐老板的监督。
-弘树靠着微薄的薪水生活在东京市中心的一间破旧的小公寓里，靠吃方便面维持生计。
-他的生活简直称不上“光鲜亮丽”……
-直到有一天，他接到了为日本顶级偶像生江亚优拍照的任务。
-一件事接一件事，弘树很快发现自己受到了三位美女的摆布——她们都是名人。其中有可爱的偶像 Ayu、性感的女商人 Marina 和头脑简单的社交媒体明星 Cosmos。他们都是有钱有名，而且天赋极高，应该是高不可攀的……
-但是，出于某种原因，他们对广树有着无法满足的吸引力！
-据玛丽娜说，这三个女人都是魅魔，她们觉得广树的气味令人陶醉。他们对他爱不释手——很快，弘树的平均生活就变得一团糟。
-
-[240115][Winged Cloud] Sakura Succubus 8 (files) pdev
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>Winged Cloud</tag>
-        <tag>Sakura Succubus</tag>
       </tags>
   </entry>
   <entry>
@@ -3013,44 +3054,6 @@ Baidu w4j9 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【官中】SweetBody~愛の巣へ~</title>
-    <url>/38b44064/</url>
-    <content><![CDATA[
-
-品牌：TOKITORIA
-
-发售日期：2024-09-18
-
-类型：ADV &#x2F; 官方中文
-
-
-『 SweetBody~愛の巣へ~ 』
-▼ 故事简介你和香子小姐说不定可以做爱。
-25-30分钟小品游戏，推荐一口气通关。
-PS：这部作品太抽象了……
-▼ 你可能见过的名场面
-        
-      
-
-▼ 测试图
-        
-      
-
-▼ 官方中文[240918][TOKITORIA] SweetBody~愛の巣へ~ DL版 Chinese (files) kny8
-Baidu d4az 123 6VRp 微软直链
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>TOKITORIA</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【官中】ToHeart重制版</title>
     <url>/3083caef/</url>
     <content><![CDATA[
@@ -3095,6 +3098,44 @@ Baidu 3kes 直链 Telegram
         <tag>CHARM</tag>
         <tag>下川直哉</tag>
         <tag>3D</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【官中】SweetBody~愛の巣へ~</title>
+    <url>/38b44064/</url>
+    <content><![CDATA[
+
+品牌：TOKITORIA
+
+发售日期：2024-09-18
+
+类型：ADV &#x2F; 官方中文
+
+
+『 SweetBody~愛の巣へ~ 』
+▼ 故事简介你和香子小姐说不定可以做爱。
+25-30分钟小品游戏，推荐一口气通关。
+PS：这部作品太抽象了……
+▼ 你可能见过的名场面
+        
+      
+
+▼ 测试图
+        
+      
+
+▼ 官方中文[240918][TOKITORIA] SweetBody~愛の巣へ~ DL版 Chinese (files) kny8
+Baidu d4az 123 6VRp 微软直链
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>TOKITORIA</tag>
       </tags>
   </entry>
   <entry>
@@ -3158,47 +3199,6 @@ Baidu pdqn 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【官中】VIRTUAL GIRL @ WORLD&#39;S END</title>
-    <url>/6eee9bd6/</url>
-    <content><![CDATA[
-
-品牌：ヘッドロック
-
-发售日期：2025&#x2F;06&#x2F;12 (steam)
-
-类型：ADV &#x2F; 官方中文
-
-原画：信澤収
-
-剧本：晴日たに
-
-
-『 VIRTUAL GIRL @ WORLD’S END 』
-▼ 故事简介2055年，东京。战争、资源枯竭、人口减少——绝望充斥着这座城市。在这样的地方，一群光鲜亮丽的少女正在进行直播。她们被衡量价值、被赋予排名，唯有看向世界的双眼逐渐变得黯淡无光。在这个毫无色彩、充满黑暗的世界中，一位少女苏醒了。「HELLO WORLD！我是 Vstar 的‘爱’！」少女继续歌唱，直到世界终结的那一天。即使身处绝望，也要闪耀光芒。
-▼ 测试图
-        
-      
-
-▼ 官方中文
-
-[250612][ヘッドロック] VIRTUAL GIRL @ WORLD’S END steam版 [官中] (files) [v49055] st5d
-Baidu kx3h 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>全年龄</tag>
-        <tag>ヘッドロック</tag>
-        <tag>信澤収</tag>
-        <tag>晴日たに</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【官中】VenusBlood AfterDays Episode:4 龙之歌姬</title>
     <url>/56bcd9be/</url>
     <content><![CDATA[
@@ -3243,6 +3243,47 @@ Baidu nty2 123 4zIo 微软直链
         <tag>星空ユメ</tag>
         <tag>イルカ</tag>
         <tag>VenusBlood</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【官中】VIRTUAL GIRL @ WORLD&#39;S END</title>
+    <url>/6eee9bd6/</url>
+    <content><![CDATA[
+
+品牌：ヘッドロック
+
+发售日期：2025&#x2F;06&#x2F;12 (steam)
+
+类型：ADV &#x2F; 官方中文
+
+原画：信澤収
+
+剧本：晴日たに
+
+
+『 VIRTUAL GIRL @ WORLD’S END 』
+▼ 故事简介2055年，东京。战争、资源枯竭、人口减少——绝望充斥着这座城市。在这样的地方，一群光鲜亮丽的少女正在进行直播。她们被衡量价值、被赋予排名，唯有看向世界的双眼逐渐变得黯淡无光。在这个毫无色彩、充满黑暗的世界中，一位少女苏醒了。「HELLO WORLD！我是 Vstar 的‘爱’！」少女继续歌唱，直到世界终结的那一天。即使身处绝望，也要闪耀光芒。
+▼ 测试图
+        
+      
+
+▼ 官方中文
+
+[250612][ヘッドロック] VIRTUAL GIRL @ WORLD’S END steam版 [官中] (files) [v49055] st5d
+Baidu kx3h 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>全年龄</tag>
+        <tag>ヘッドロック</tag>
+        <tag>信澤収</tag>
+        <tag>晴日たに</tag>
       </tags>
   </entry>
   <entry>
@@ -3692,9 +3733,9 @@ Baidu pjib 直链 Telegram
         <tag>汉化</tag>
         <tag>官方中文</tag>
         <tag>Key</tag>
+        <tag>ADV</tag>
         <tag>麻枝准</tag>
         <tag>イシカワタカシ</tag>
-        <tag>ADV</tag>
         <tag>全年龄</tag>
         <tag>樋上いたる</tag>
         <tag>涼元悠一</tag>
@@ -4210,8 +4251,8 @@ Baidu 4ci2 直链 Telegram
         <tag>汉化</tag>
         <tag>官方中文</tag>
         <tag>Key</tag>
-        <tag>魁</tag>
         <tag>ADV</tag>
+        <tag>魁</tag>
         <tag>ふむゆん</tag>
         <tag>和泉つばす</tag>
         <tag>枫笛汉化组</tag>
@@ -4273,9 +4314,9 @@ Baidu vdk6 直链 Telegram
         <tag>汉化</tag>
         <tag>官方中文</tag>
         <tag>Key</tag>
+        <tag>ADV</tag>
         <tag>麻枝准</tag>
         <tag>魁</tag>
-        <tag>ADV</tag>
         <tag>和泉つばす</tag>
         <tag>枫笛汉化组</tag>
         <tag>Na-Ga</tag>
@@ -5199,69 +5240,6 @@ Baidu u9qh 123 PBqT 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【官中】【汉化】宿星的女朋友 2 -destiny star girlfriend-／宿星Girlfriend 2</title>
-    <url>/c9db2a96/</url>
-    <content><![CDATA[
-
-品牌：mirai
-
-发售日期：2024&#x2F;10&#x2F;29 (steam)
-
-类型：ADV &#x2F; 官方中文 &#x2F; 绿茶汉化组
-
-原画：かんなぎれい、すいみゃ
-
-剧本：ハルモニー
-
-
-『 宿星のガールフレンド2 -the destiny star of girlfriend- 』
-『 宿星的女朋友 2 -destiny star girlfriend- 』
-『 宿星Girlfriend 2 』
-▼ 故事简介平凡的高中生高杉星司在公园里结识了名为玛亚的少女。虽然玛亚言行诡异，但她那种看似迷糊却又充满魅力的性格让星司深受吸引。某一天，一位异形魔神忽然出现在了两人面前。原来，玛亚其实是与魔神签订了契约的魔法少女，她能驱使暗黑之力。星司阴差阳错地成为了玛亚的使魔，并与魔神签订契约，协助它对抗敌对魔神。成为使魔后，星司拥有了使用魔法的能力。但作为代价，他的脚踝上多出了一根魔法绳，这根绳子将他与玛亚连在了一起。
-为了维持生命，星司必须始终待在玛亚身边，不断地从她那里汲取魔力。于是，两人开始了同居生活。由于玛亚缺乏常识，在自己的使魔面前毫无戒备心，所以他们的生活中充满了令人脸红心跳的意外。星司和玛亚的同居生活究竟会走向何方？
-▼ 测试图
-        
-      
-
-▼ 官方中文
-
-[241029][mirai] 宿星のガールフレンド2 -the destiny star of girlfriend- steam多国語版 Chinese-English (files) ymh4
-Baidu anrx 123 OALr 微软直链
-▼ 绿茶汉化组 汉化作品[190726][mirai] 宿星のガールフレンド2 -the destiny star of girlfriend- 中国語版 (files) {绿茶汉化组} 8q4k
-微软直链
-✦联动
-【官中】【汉化】宿星的女朋友／宿星Girlfriend
-
-【官中】【汉化】宿星的女朋友 2 -destiny star girlfriend-／宿星Girlfriend 2
-
-【官中】【汉化】宿星的女朋友 3 -destiny star girlfriend-／宿星Girlfriend 3
-
-【Tyranor】宿星的女朋友／宿星Girlfriend
-
-【Tyranor】宿星的女朋友 2 -destiny star girlfriend-／宿星Girlfriend 2
-
-【Tyranor】宿星的女朋友 3 -destiny star girlfriend-／宿星Girlfriend 3
-
-
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>绿茶汉化组</tag>
-        <tag>mirai</tag>
-        <tag>かんなぎれい</tag>
-        <tag>すいみゃ</tag>
-        <tag>ハルモニー</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【官中】【汉化】宿星的女朋友 3 -destiny star girlfriend-／宿星Girlfriend 3</title>
     <url>/836df6dc/</url>
     <content><![CDATA[
@@ -5328,6 +5306,69 @@ Baidu hsfm 123 DgKr 微软直链
         <tag>すいみゃ</tag>
         <tag>ハルモニー</tag>
         <tag>アメディオ</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【官中】【汉化】宿星的女朋友 2 -destiny star girlfriend-／宿星Girlfriend 2</title>
+    <url>/c9db2a96/</url>
+    <content><![CDATA[
+
+品牌：mirai
+
+发售日期：2024&#x2F;10&#x2F;29 (steam)
+
+类型：ADV &#x2F; 官方中文 &#x2F; 绿茶汉化组
+
+原画：かんなぎれい、すいみゃ
+
+剧本：ハルモニー
+
+
+『 宿星のガールフレンド2 -the destiny star of girlfriend- 』
+『 宿星的女朋友 2 -destiny star girlfriend- 』
+『 宿星Girlfriend 2 』
+▼ 故事简介平凡的高中生高杉星司在公园里结识了名为玛亚的少女。虽然玛亚言行诡异，但她那种看似迷糊却又充满魅力的性格让星司深受吸引。某一天，一位异形魔神忽然出现在了两人面前。原来，玛亚其实是与魔神签订了契约的魔法少女，她能驱使暗黑之力。星司阴差阳错地成为了玛亚的使魔，并与魔神签订契约，协助它对抗敌对魔神。成为使魔后，星司拥有了使用魔法的能力。但作为代价，他的脚踝上多出了一根魔法绳，这根绳子将他与玛亚连在了一起。
+为了维持生命，星司必须始终待在玛亚身边，不断地从她那里汲取魔力。于是，两人开始了同居生活。由于玛亚缺乏常识，在自己的使魔面前毫无戒备心，所以他们的生活中充满了令人脸红心跳的意外。星司和玛亚的同居生活究竟会走向何方？
+▼ 测试图
+        
+      
+
+▼ 官方中文
+
+[241029][mirai] 宿星のガールフレンド2 -the destiny star of girlfriend- steam多国語版 Chinese-English (files) ymh4
+Baidu anrx 123 OALr 微软直链
+▼ 绿茶汉化组 汉化作品[190726][mirai] 宿星のガールフレンド2 -the destiny star of girlfriend- 中国語版 (files) {绿茶汉化组} 8q4k
+微软直链
+✦联动
+【官中】【汉化】宿星的女朋友／宿星Girlfriend
+
+【官中】【汉化】宿星的女朋友 2 -destiny star girlfriend-／宿星Girlfriend 2
+
+【官中】【汉化】宿星的女朋友 3 -destiny star girlfriend-／宿星Girlfriend 3
+
+【Tyranor】宿星的女朋友／宿星Girlfriend
+
+【Tyranor】宿星的女朋友 2 -destiny star girlfriend-／宿星Girlfriend 2
+
+【Tyranor】宿星的女朋友 3 -destiny star girlfriend-／宿星Girlfriend 3
+
+
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>绿茶汉化组</tag>
+        <tag>mirai</tag>
+        <tag>かんなぎれい</tag>
+        <tag>すいみゃ</tag>
+        <tag>ハルモニー</tag>
       </tags>
   </entry>
   <entry>
@@ -5972,54 +6013,6 @@ Baidu s6kr 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【官中】【汉化】游魂 -Kiss on my Deity-</title>
-    <url>/172775b2/</url>
-    <content><![CDATA[
-
-品牌：Lump of Sugar
-
-发售日期：2008&#x2F;07&#x2F;11 | 2025&#x2F;03&#x2F;27 (steam) 全年龄
-
-类型：ADV &#x2F; 大师♂罗莊汉化 &#x2F; 官方中文
-
-原画：萌木原ふみたけ
-
-剧本：史方千尋
-
-
-『 タユタマ -kiss on my deity- 』
-『 游魂 -Kiss on my Deity- 』
-《游魂 -Kiss on my Deity-》移植版，将于2025年春季于Nintendo Switch、Steam平台全球同步发售。本作的PC原版于2008年7月推出，一经推出便迅速斩获人气，并于2009年动画化。本次移植版针对全年龄玩家进行了部分调整，由Lump of Sugar监修，并支持HD画质，为玩家带来更高清的游戏体验。
-▼ 故事简介主角泉户裕理是八衢神社的独子。某天，他与神社土地的守护者相遇，守护者将少女「真白」托付给了他。然而，原本作为危险存在而被封印的「太转依」却也因意外被释放。拥有除魔灵能的裕理，将与包括青梅竹马在内的4位美少女一同成长，探索如何与非人类的未知生物和平共处。
-▼ 测试图
-        
-      
-
-▼ 官方中文
-
-[250327][Lump of Sugar] タユタマ -kiss on my deity- 游魂 -Kiss on my Deity- steam版 [官中] (files) [R18补丁][v828] awdr
-Baidu xvw5 直链 Telegram
-▼ 大师♂罗莊 汉化作品18+
-[080711][Lump of Sugar] タユタマ -kiss on my deity- 游魂 -kiss on my deity- [汉化] (files) [大师♂罗莊][v828] x4gs
-Baidu ts1n 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>Lump of Sugar</tag>
-        <tag>萌木原ふみたけ</tag>
-        <tag>大师♂罗莊</tag>
-        <tag>史方千尋</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【官中】【汉化】灵感满溢的甜蜜创想凸／常轨脱离Creative凸</title>
     <url>/8c994047/</url>
     <content><![CDATA[
@@ -6067,6 +6060,54 @@ Baidu 63ug 直链 Telegram
         <tag>宇都宮つみれ</tag>
         <tag>茜屋</tag>
         <tag>甲木順之助</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【官中】【汉化】游魂 -Kiss on my Deity-</title>
+    <url>/172775b2/</url>
+    <content><![CDATA[
+
+品牌：Lump of Sugar
+
+发售日期：2008&#x2F;07&#x2F;11 | 2025&#x2F;03&#x2F;27 (steam) 全年龄
+
+类型：ADV &#x2F; 大师♂罗莊汉化 &#x2F; 官方中文
+
+原画：萌木原ふみたけ
+
+剧本：史方千尋
+
+
+『 タユタマ -kiss on my deity- 』
+『 游魂 -Kiss on my Deity- 』
+《游魂 -Kiss on my Deity-》移植版，将于2025年春季于Nintendo Switch、Steam平台全球同步发售。本作的PC原版于2008年7月推出，一经推出便迅速斩获人气，并于2009年动画化。本次移植版针对全年龄玩家进行了部分调整，由Lump of Sugar监修，并支持HD画质，为玩家带来更高清的游戏体验。
+▼ 故事简介主角泉户裕理是八衢神社的独子。某天，他与神社土地的守护者相遇，守护者将少女「真白」托付给了他。然而，原本作为危险存在而被封印的「太转依」却也因意外被释放。拥有除魔灵能的裕理，将与包括青梅竹马在内的4位美少女一同成长，探索如何与非人类的未知生物和平共处。
+▼ 测试图
+        
+      
+
+▼ 官方中文
+
+[250327][Lump of Sugar] タユタマ -kiss on my deity- 游魂 -Kiss on my Deity- steam版 [官中] (files) [R18补丁][v828] awdr
+Baidu xvw5 直链 Telegram
+▼ 大师♂罗莊 汉化作品18+
+[080711][Lump of Sugar] タユタマ -kiss on my deity- 游魂 -kiss on my deity- [汉化] (files) [大师♂罗莊][v828] x4gs
+Baidu ts1n 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>Lump of Sugar</tag>
+        <tag>萌木原ふみたけ</tag>
+        <tag>大师♂罗莊</tag>
+        <tag>史方千尋</tag>
       </tags>
   </entry>
   <entry>
@@ -9361,43 +9402,6 @@ Baidu 8co7 123 hj6G 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【官中】在樱花色梦境中恋上你／桜色の夢を見て、僕は君に恋をする</title>
-    <url>/1d4fdd1b/</url>
-    <content><![CDATA[
-
-品牌：AFTERTIME、Bigtail Village
-
-发售日期：2025&#x2F;07&#x2F;31 (steam)
-
-类型：ADV &#x2F; 官方中文
-
-
-『 桜色の夢を見て、僕は君に恋をする 』
-『 在樱花色梦境中恋上你 』
-▼ 故事简介——这是一场找寻记忆中永远绽放的“约定之樱”的旅程。主人公因偶然契机回到曾经生活过的小镇，每当醒来，脑海中总会浮现出许久以前与某个人许下的约定。而那段记忆，正与不可思议的梦境重叠出现。宁静小镇的风景，看似一成不变，日常却在悄然改变着。与小镇相遇的少女们的共处时光，正悄然解开主人公尘封的心扉。当找回被遗忘的情感，获得直面真相的勇气时——你将会牵起谁的手，选择怎样的未来？在抉择之路的尽头等待着的，是并非唯一的”心之归宿“。《在樱花色 梦境中恋上你》过去与现在、思念交织而成的甜蜜又忧伤的温柔故事，此刻正拉开序幕。
-▼ 测试图
-        
-      
-
-▼ 官方中文
-
-首次运行，需要在设置中切换语言。
-[250731][AFTERTIME、Bigtail Village] 桜色の夢を見て、僕は君に恋をする 在樱花色梦境中恋上你 [官中] (files) [v50441] 5cxz
-Baidu jw9b 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>AFTERTIME</tag>
-        <tag>Bigtail Village</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【官中】夏日彼方 beyond</title>
     <url>/2794fe60/</url>
     <content><![CDATA[
@@ -9448,6 +9452,43 @@ Baidu o2eq 123 FAXV 微软直链
       </tags>
   </entry>
   <entry>
+    <title>【官中】在樱花色梦境中恋上你／桜色の夢を見て、僕は君に恋をする</title>
+    <url>/1d4fdd1b/</url>
+    <content><![CDATA[
+
+品牌：AFTERTIME、Bigtail Village
+
+发售日期：2025&#x2F;07&#x2F;31 (steam)
+
+类型：ADV &#x2F; 官方中文
+
+
+『 桜色の夢を見て、僕は君に恋をする 』
+『 在樱花色梦境中恋上你 』
+▼ 故事简介——这是一场找寻记忆中永远绽放的“约定之樱”的旅程。主人公因偶然契机回到曾经生活过的小镇，每当醒来，脑海中总会浮现出许久以前与某个人许下的约定。而那段记忆，正与不可思议的梦境重叠出现。宁静小镇的风景，看似一成不变，日常却在悄然改变着。与小镇相遇的少女们的共处时光，正悄然解开主人公尘封的心扉。当找回被遗忘的情感，获得直面真相的勇气时——你将会牵起谁的手，选择怎样的未来？在抉择之路的尽头等待着的，是并非唯一的”心之归宿“。《在樱花色 梦境中恋上你》过去与现在、思念交织而成的甜蜜又忧伤的温柔故事，此刻正拉开序幕。
+▼ 测试图
+        
+      
+
+▼ 官方中文
+
+首次运行，需要在设置中切换语言。
+[250731][AFTERTIME、Bigtail Village] 桜色の夢を見て、僕は君に恋をする 在樱花色梦境中恋上你 [官中] (files) [v50441] 5cxz
+Baidu jw9b 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>AFTERTIME</tag>
+        <tag>Bigtail Village</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】夜勤病栋Remake／夜勤病棟リメイク</title>
     <url>/a09f2ee1/</url>
     <content><![CDATA[
@@ -9491,6 +9532,55 @@ Baidu utsp 直链 微软直链
         <tag>FG REMAKE</tag>
         <tag>上田メタヲ</tag>
         <tag>米倉俵</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【官中】失眠的羊与孤独的狼 -A Tale of Cutthroat Lovers-</title>
+    <url>/9b82eeee/</url>
+    <content><![CDATA[
+
+品牌：CLOCKUP
+
+发售日期：2024&#x2F;12&#x2F;10 (steam)
+
+类型：ADV &#x2F; 官方中文
+
+原画：のりざね
+
+剧本：昏式龍也
+
+
+『 眠れぬ羊と孤独な狼－A Tale of Love, and Cutthroat－ 』
+『 失眠的羊与孤独的狼 -A Tale of Cutthroat Lovers- 』
+▼ 故事简介今夜的我依然失眠——新宿，歌舞伎町。患有慢性失眠症的我，在旅馆当住店清洁工，无精打采地过日子。能让我睡个好觉的唯一方法，就是杀人。因此，我还有一个隐藏的身份——黑社会组织高层干部东仪卫豢养的杀手，靠着偶尔派下来的杀人任务，获得短暂的睡眠。这样的生活虽然像走钢丝一样危险，但也安稳平静。直到有一天，我遇到了一个女孩——蓟。在她身边，我前所未有地得以安眠，于是想把她留下来。可是她被东仪追捕，要想跟她在一起，就要对抗东仪——这意味着我现在安稳的生活会分崩离析。
+《Maggot baits》作者昏式龙也描绘的“最不堪”的爱情故事，拉开序幕！！
+▼ 测试图
+        
+      
+
+▼ 官方中文运行 Restless.exe 启动游戏。
+
+
+(18禁ゲーム) [241210][CLOCKUP] 眠れぬ羊と孤独な狼－A Tale of Love, and Cutthroat－steam多国語版 Chinese-English (files) {Shiravune} ug6y
+Baidu x4ep 直链 微软直链
+✦联动
+【官中】失眠的羊与孤独的狼 -A Tale of Cutthroat Lovers-
+
+【官中】失眠的羊与孤独的狼 -Woolly Eyes《外传》-
+
+
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>CLOCKUP</tag>
+        <tag>のりざね</tag>
+        <tag>昏式龍也</tag>
       </tags>
   </entry>
   <entry>
@@ -9555,55 +9645,6 @@ Baidu 40wk 123 KyKG 微软直链
         <tag>稲叶圣子</tag>
         <tag>love solfege</tag>
         <tag>solfa</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【官中】失眠的羊与孤独的狼 -A Tale of Cutthroat Lovers-</title>
-    <url>/9b82eeee/</url>
-    <content><![CDATA[
-
-品牌：CLOCKUP
-
-发售日期：2024&#x2F;12&#x2F;10 (steam)
-
-类型：ADV &#x2F; 官方中文
-
-原画：のりざね
-
-剧本：昏式龍也
-
-
-『 眠れぬ羊と孤独な狼－A Tale of Love, and Cutthroat－ 』
-『 失眠的羊与孤独的狼 -A Tale of Cutthroat Lovers- 』
-▼ 故事简介今夜的我依然失眠——新宿，歌舞伎町。患有慢性失眠症的我，在旅馆当住店清洁工，无精打采地过日子。能让我睡个好觉的唯一方法，就是杀人。因此，我还有一个隐藏的身份——黑社会组织高层干部东仪卫豢养的杀手，靠着偶尔派下来的杀人任务，获得短暂的睡眠。这样的生活虽然像走钢丝一样危险，但也安稳平静。直到有一天，我遇到了一个女孩——蓟。在她身边，我前所未有地得以安眠，于是想把她留下来。可是她被东仪追捕，要想跟她在一起，就要对抗东仪——这意味着我现在安稳的生活会分崩离析。
-《Maggot baits》作者昏式龙也描绘的“最不堪”的爱情故事，拉开序幕！！
-▼ 测试图
-        
-      
-
-▼ 官方中文运行 Restless.exe 启动游戏。
-
-
-(18禁ゲーム) [241210][CLOCKUP] 眠れぬ羊と孤独な狼－A Tale of Love, and Cutthroat－steam多国語版 Chinese-English (files) {Shiravune} ug6y
-Baidu x4ep 直链 微软直链
-✦联动
-【官中】失眠的羊与孤独的狼 -A Tale of Cutthroat Lovers-
-
-【官中】失眠的羊与孤独的狼 -Woolly Eyes《外传》-
-
-
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>CLOCKUP</tag>
-        <tag>のりざね</tag>
-        <tag>昏式龍也</tag>
       </tags>
   </entry>
   <entry>
@@ -9936,6 +9977,54 @@ Baidu vq4k 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【官中】学校的圣域</title>
+    <url>/4cb6aa8b/</url>
+    <content><![CDATA[
+
+品牌：feng
+
+发售日期：2023&#x2F;12&#x2F;15
+
+类型：ADV &#x2F; 官方中文
+
+原画：涼香、なちゅらるとん
+
+剧本：なかひろ、芳井一
+
+
+『 学校のセイイキ 』
+『学校的圣域』
+▼ 故事简介：姐姐八重香担任了主人公班的班主任。
+作为教室，姐姐八重香端庄飒爽，深受学生们喜爱，美中不足的是，回到家中，八重香却摇身一变成醉鬼，私生活邋遢成性。
+秋叶原系留学生米卡是主人公的同班同学。
+每次放学后就会邀请主人公，一起在秋叶原逛街。
+一手拿着烤鱿鱼，一手拎着同人志和同人游戏，在店铺里扫货的样子，如今已经成为了一道熟悉的风景线。
+本以为这样的每一天会一直持续下去。
+有一天，米卡突然回到了自己的国家，身边的情况急转直下。
+主人公与米卡的班主任八重香一同，为了帮助米卡开始了奔波……
+以“学校的圣域”为舞台，他们的恋爱故事，即将揭开帷幕。
+系列第三弾！
+※無碼※
+&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;
+(無修正) [231215][feng] 学校のセイイキ steam版 (files) i79g
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>feng</tag>
+        <tag>涼香</tag>
+        <tag>なちゅらるとん</tag>
+        <tag>なかひろ</tag>
+        <tag>芳井一</tag>
+        <tag>無碼</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】完美恋人~fragile love</title>
     <url>/e34e3fb9/</url>
     <content><![CDATA[
@@ -10002,54 +10091,6 @@ About
         <tag>XUWULE制作组</tag>
         <tag>大雾</tag>
         <tag>selto</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【官中】学校的圣域</title>
-    <url>/4cb6aa8b/</url>
-    <content><![CDATA[
-
-品牌：feng
-
-发售日期：2023&#x2F;12&#x2F;15
-
-类型：ADV &#x2F; 官方中文
-
-原画：涼香、なちゅらるとん
-
-剧本：なかひろ、芳井一
-
-
-『 学校のセイイキ 』
-『学校的圣域』
-▼ 故事简介：姐姐八重香担任了主人公班的班主任。
-作为教室，姐姐八重香端庄飒爽，深受学生们喜爱，美中不足的是，回到家中，八重香却摇身一变成醉鬼，私生活邋遢成性。
-秋叶原系留学生米卡是主人公的同班同学。
-每次放学后就会邀请主人公，一起在秋叶原逛街。
-一手拿着烤鱿鱼，一手拎着同人志和同人游戏，在店铺里扫货的样子，如今已经成为了一道熟悉的风景线。
-本以为这样的每一天会一直持续下去。
-有一天，米卡突然回到了自己的国家，身边的情况急转直下。
-主人公与米卡的班主任八重香一同，为了帮助米卡开始了奔波……
-以“学校的圣域”为舞台，他们的恋爱故事，即将揭开帷幕。
-系列第三弾！
-※無碼※
-&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;
-(無修正) [231215][feng] 学校のセイイキ steam版 (files) i79g
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>feng</tag>
-        <tag>涼香</tag>
-        <tag>なちゅらるとん</tag>
-        <tag>なかひろ</tag>
-        <tag>芳井一</tag>
-        <tag>無碼</tag>
       </tags>
   </entry>
   <entry>
@@ -11918,6 +11959,53 @@ Baidu jnjn 123 zcCE 微软直链
       </tags>
   </entry>
   <entry>
+    <title>【官中】生死永相随永相伴</title>
+    <url>/afcfa735/</url>
+    <content><![CDATA[
+
+品牌：ウォーターフェニックス
+
+发售日期：2015&#x2F;11&#x2F;12
+
+类型：ADV &#x2F; 官方中文
+
+原画：R
+
+剧本：R
+
+
+『 一緒に行きましょう逝きましょう生きましょう』
+『生死永相随永相伴』
+▼ 故事简介：关于本作品针对自2017年推送的英文版进行了以下修改
+
+重新制作了图像
+系统改进
+支持简体中文
+支持日语
+
+关于人物语音，仅对女主角录制了全语音。
+生死永相随永相伴
+这个游戏是一个没有必要进行选择的小说游戏。
+为了赎人类犯下的罪过，少女将不断地死去。
+【苏醒】镜夜在昏暗的房间中醒来。路过的少女告诉他，世界已经毁灭了。镜夜不愿相信，为了寻找其他生物，他与少女一起踏上了废墟之旅。
+然而，少女有着一个”使命”。
+【少女的使命】为了赎人类犯下的罪过，她必须不断地死去。无论是几次，几十次、几百次、几千次、还是几万次。
+她死去，又复活。看着只知道痛苦的她，鏡夜希望能教会她什么是幸福。
+[171209][ウォーターフェニックス] 一緒に行きましょう逝きましょう生きましょう steam版 (files) {KEMCO} w87i
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>ウォーターフェニックス</tag>
+        <tag>R</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】甜蜜夏日／アマナツ</title>
     <url>/c41ccf3b/</url>
     <content><![CDATA[
@@ -11976,53 +12064,6 @@ Baidu nm8m 123 y9jP 微软直链
         <tag>荒川虎鉄</tag>
         <tag>夜空ナガメ</tag>
         <tag>早瀬ゆう</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【官中】生死永相随永相伴</title>
-    <url>/afcfa735/</url>
-    <content><![CDATA[
-
-品牌：ウォーターフェニックス
-
-发售日期：2015&#x2F;11&#x2F;12
-
-类型：ADV &#x2F; 官方中文
-
-原画：R
-
-剧本：R
-
-
-『 一緒に行きましょう逝きましょう生きましょう』
-『生死永相随永相伴』
-▼ 故事简介：关于本作品针对自2017年推送的英文版进行了以下修改
-
-重新制作了图像
-系统改进
-支持简体中文
-支持日语
-
-关于人物语音，仅对女主角录制了全语音。
-生死永相随永相伴
-这个游戏是一个没有必要进行选择的小说游戏。
-为了赎人类犯下的罪过，少女将不断地死去。
-【苏醒】镜夜在昏暗的房间中醒来。路过的少女告诉他，世界已经毁灭了。镜夜不愿相信，为了寻找其他生物，他与少女一起踏上了废墟之旅。
-然而，少女有着一个”使命”。
-【少女的使命】为了赎人类犯下的罪过，她必须不断地死去。无论是几次，几十次、几百次、几千次、还是几万次。
-她死去，又复活。看着只知道痛苦的她，鏡夜希望能教会她什么是幸福。
-[171209][ウォーターフェニックス] 一緒に行きましょう逝きましょう生きましょう steam版 (files) {KEMCO} w87i
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>ウォーターフェニックス</tag>
-        <tag>R</tag>
       </tags>
   </entry>
   <entry>
@@ -12790,57 +12831,6 @@ Baidu 5wck 123 NEyD 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【官中】花与乙女的祝福 皇家花束／花と乙女に祝福を ロイヤルブーケ</title>
-    <url>/e8578faa/</url>
-    <content><![CDATA[
-
-品牌：ensemble
-
-发售日期：2010-01-29
-
-类型：ADV &#x2F; 官方中文 &#x2F; 未來數位
-
-原画：武藤此史、い～ぐる
-
-剧本：じんべい、ANTENNA
-
-音乐：ミリオンバンブー
-
-
-『 花と乙女に祝福を ロイヤルブーケ 』
-『 花与乙女的祝福 皇家花束 』
-▼ 故事简介■夏天！泳池！ 狂欢的节日!! ～都的漫长一天～连日持续炎热，在大夏天的某日。因为太过热，正打算到海边或泳池等清凉的地方去的彰和都。但不管哪里都是人山人海，两人无处可去时，都好像难以开口似的提议到。「唔——那么，要不到我家的泳池……去？」都家里有游泳池的话，那一开始就叫我去不就行了。虽然彰这样想，但还是答应了都的提议。就这样，两人打算在都家里的私人泳池里留下一个夏天的甜蜜回忆可是……
-■哥哥是我的仆人？ ～月丘晶子的优雅一天～在立藤之会后过了一个月的某天。妹妹晶子向月丘彰提出了在假日去约会作为害她当上了ルピナス会长的赔罪。当然，虽然说是约会，那也是兄妹间的约定。晶子的目的是作为赔罪要哥哥一整天听命于自己。对妹控的彰来说那反而是求之不得的事，马上就答应了。2人的意见一致，那天对月丘兄妹来说本应是快乐的一天来的但……「哥哥，那么从今天开始就是Double晶子了喔♪」
-■彰・男子汉化计划 ～恢复性取向！～晶子「哥、哥哥……最近，你的言行是不是有点～太过像女孩子了？ 走路啊都脚尖朝内走的。还有是自称用『私』了吧？」彰「没那回事呀。哼呼呼。讨厌啦，晶子真是的」晶子「还、还哼呼呼地笑……」在立藤之会以学生会的胜利落下帷幕的数周后。做晶子的替身的后遗症，哥哥・彰女人化了。晶子质问彰这事，但当事人是完全没自觉到似的。晶子「（这……这样下去的话，哥哥会变成怪人!?）」感觉到危机感的晶子找聖佳商量，但不知为什么学生会全员都参与了谈话。而且话题不断向着奇怪的方向去了……
-■心是女人。身体是男人?! ～天法院綾音 华丽轨迹～在立藤之会上，綾音虽然是答应了暗地里对自己抱有爱意的千里提出的求婚，但她的表情很阴沉。綾音「千里先生是不知道真正的我呀。怎么可以接受求婚的……」虽然很想接受千里的求婚。但是，告诉对方自己的秘密的话，千里的心就会离自己而去。可是，就算继续欺瞒千里最终纸也是包不住火的。綾音「到底，要怎么办……」无法完全舍弃千里的爱意的綾音，回想起至今自己身上发生的一切事……
-■连夜连斗？ 名木城家，爱的留宿聚会名木城都主办的ルピナス・新学生会成员留宿聚会。那原本是聚集最初的好朋友们尽情畅谈的愉快活动。只要那时候那里代替真货的伪晶子没出现的话……志鶴「哼呼呼，明明变得这么硬了，还要坚持说自己是晶子吗？」都「对欺骗纯情的少女的“恶棒棍”得要严惩一下呢……」晶子「请、请住手大家。我不是晶子不行的！」
-▼ 测试图
-        
-      
-
-▼ 官方中文第一次运行游戏前，先运行注册表恢复.exe
-[100129][ensemble] 花と乙女に祝福を ロイヤルブーケ 花與乙女的祝福～皇家花束～ 花与乙女的祝福 皇家花束 [官中] (files) [未來數位][v3110] jps3
-Baidu fur4 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>伪娘</tag>
-        <tag>女装</tag>
-        <tag>ensemble</tag>
-        <tag>武藤此史</tag>
-        <tag>い～ぐる</tag>
-        <tag>ミリオンバンブー</tag>
-        <tag>未來數位</tag>
-        <tag>ANTENNA</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【官中】花与少女的祝福／花与乙女的祝福</title>
     <url>/b4064fcf/</url>
     <content><![CDATA[
@@ -12896,6 +12886,57 @@ Baidu w9sm 直链 Telegram
         <tag>ミリオンバンブー</tag>
         <tag>片霧烈火</tag>
         <tag>未來數位</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【官中】花与乙女的祝福 皇家花束／花と乙女に祝福を ロイヤルブーケ</title>
+    <url>/e8578faa/</url>
+    <content><![CDATA[
+
+品牌：ensemble
+
+发售日期：2010-01-29
+
+类型：ADV &#x2F; 官方中文 &#x2F; 未來數位
+
+原画：武藤此史、い～ぐる
+
+剧本：じんべい、ANTENNA
+
+音乐：ミリオンバンブー
+
+
+『 花と乙女に祝福を ロイヤルブーケ 』
+『 花与乙女的祝福 皇家花束 』
+▼ 故事简介■夏天！泳池！ 狂欢的节日!! ～都的漫长一天～连日持续炎热，在大夏天的某日。因为太过热，正打算到海边或泳池等清凉的地方去的彰和都。但不管哪里都是人山人海，两人无处可去时，都好像难以开口似的提议到。「唔——那么，要不到我家的泳池……去？」都家里有游泳池的话，那一开始就叫我去不就行了。虽然彰这样想，但还是答应了都的提议。就这样，两人打算在都家里的私人泳池里留下一个夏天的甜蜜回忆可是……
+■哥哥是我的仆人？ ～月丘晶子的优雅一天～在立藤之会后过了一个月的某天。妹妹晶子向月丘彰提出了在假日去约会作为害她当上了ルピナス会长的赔罪。当然，虽然说是约会，那也是兄妹间的约定。晶子的目的是作为赔罪要哥哥一整天听命于自己。对妹控的彰来说那反而是求之不得的事，马上就答应了。2人的意见一致，那天对月丘兄妹来说本应是快乐的一天来的但……「哥哥，那么从今天开始就是Double晶子了喔♪」
+■彰・男子汉化计划 ～恢复性取向！～晶子「哥、哥哥……最近，你的言行是不是有点～太过像女孩子了？ 走路啊都脚尖朝内走的。还有是自称用『私』了吧？」彰「没那回事呀。哼呼呼。讨厌啦，晶子真是的」晶子「还、还哼呼呼地笑……」在立藤之会以学生会的胜利落下帷幕的数周后。做晶子的替身的后遗症，哥哥・彰女人化了。晶子质问彰这事，但当事人是完全没自觉到似的。晶子「（这……这样下去的话，哥哥会变成怪人!?）」感觉到危机感的晶子找聖佳商量，但不知为什么学生会全员都参与了谈话。而且话题不断向着奇怪的方向去了……
+■心是女人。身体是男人?! ～天法院綾音 华丽轨迹～在立藤之会上，綾音虽然是答应了暗地里对自己抱有爱意的千里提出的求婚，但她的表情很阴沉。綾音「千里先生是不知道真正的我呀。怎么可以接受求婚的……」虽然很想接受千里的求婚。但是，告诉对方自己的秘密的话，千里的心就会离自己而去。可是，就算继续欺瞒千里最终纸也是包不住火的。綾音「到底，要怎么办……」无法完全舍弃千里的爱意的綾音，回想起至今自己身上发生的一切事……
+■连夜连斗？ 名木城家，爱的留宿聚会名木城都主办的ルピナス・新学生会成员留宿聚会。那原本是聚集最初的好朋友们尽情畅谈的愉快活动。只要那时候那里代替真货的伪晶子没出现的话……志鶴「哼呼呼，明明变得这么硬了，还要坚持说自己是晶子吗？」都「对欺骗纯情的少女的“恶棒棍”得要严惩一下呢……」晶子「请、请住手大家。我不是晶子不行的！」
+▼ 测试图
+        
+      
+
+▼ 官方中文第一次运行游戏前，先运行注册表恢复.exe
+[100129][ensemble] 花と乙女に祝福を ロイヤルブーケ 花與乙女的祝福～皇家花束～ 花与乙女的祝福 皇家花束 [官中] (files) [未來數位][v3110] jps3
+Baidu fur4 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>伪娘</tag>
+        <tag>女装</tag>
+        <tag>ensemble</tag>
+        <tag>武藤此史</tag>
+        <tag>い～ぐる</tag>
+        <tag>ミリオンバンブー</tag>
+        <tag>未來數位</tag>
+        <tag>ANTENNA</tag>
       </tags>
   </entry>
   <entry>
@@ -13294,6 +13335,47 @@ Baidu ayeg 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【官中】邋遢巨乳姐姐</title>
+    <url>/757c0b87/</url>
+    <content><![CDATA[
+
+品牌：Miel
+
+发售日期：2023&#x2F;10&#x2F;13
+
+类型：ADV &#x2F; 官方中文
+
+原画：T-28
+
+剧本：有巻洋太
+
+
+『邋遢巨乳姐姐』
+▼ 故事简介：主人公一直憧憬着比自己大一些的姑姑，姑姑虽然是个美人，但是完全没有生活能力。基于某个契机，主人公得到了和自己憧憬的姑姑同居的机会。
+同居刚开始，主人公就被姑姑戏弄诱惑，姑姑看到因自己而勃起的年轻健壮的金金，开始不断逼迫主人公做爱。
+想到自己一个人独占这么棒的金金太浪费了，姑姑遂把美丽又有魅力的朋友们陆续叫来家里，主人公也靠自己绝伦的金金使全员堕落。和年上爆乳美尻的美女们随意中出H的后宫生活开始了！
+
+Large portions of the game include nudity and graphic descriptions of sexual activities.
+There are scenes of sexual intercourse involving pregnant characters.
+Characters engage in BDSM play, elements including; domination and bondage.
+
+
+[231013][Miel] だらしがない巨乳お姉さんのお世話を焼いたら種付けハーレム生活をする事になった件 steam版 (files) n2xg
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>Miel</tag>
+        <tag>T-28</tag>
+        <tag>有巻洋太</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】迷醉唇旅总编为我退高烧</title>
     <url>/cc32c0fb/</url>
     <content><![CDATA[
@@ -13334,47 +13416,6 @@ Omega新人「妹熊凛乃」，Alpha总编「清津千寿」。她们在一家�
         <tag>SukeraSomero</tag>
         <tag>千種みのり</tag>
         <tag>オグリアヤ</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【官中】邋遢巨乳姐姐</title>
-    <url>/757c0b87/</url>
-    <content><![CDATA[
-
-品牌：Miel
-
-发售日期：2023&#x2F;10&#x2F;13
-
-类型：ADV &#x2F; 官方中文
-
-原画：T-28
-
-剧本：有巻洋太
-
-
-『邋遢巨乳姐姐』
-▼ 故事简介：主人公一直憧憬着比自己大一些的姑姑，姑姑虽然是个美人，但是完全没有生活能力。基于某个契机，主人公得到了和自己憧憬的姑姑同居的机会。
-同居刚开始，主人公就被姑姑戏弄诱惑，姑姑看到因自己而勃起的年轻健壮的金金，开始不断逼迫主人公做爱。
-想到自己一个人独占这么棒的金金太浪费了，姑姑遂把美丽又有魅力的朋友们陆续叫来家里，主人公也靠自己绝伦的金金使全员堕落。和年上爆乳美尻的美女们随意中出H的后宫生活开始了！
-
-Large portions of the game include nudity and graphic descriptions of sexual activities.
-There are scenes of sexual intercourse involving pregnant characters.
-Characters engage in BDSM play, elements including; domination and bondage.
-
-
-[231013][Miel] だらしがない巨乳お姉さんのお世話を焼いたら種付けハーレム生活をする事になった件 steam版 (files) n2xg
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>Miel</tag>
-        <tag>T-28</tag>
-        <tag>有巻洋太</tag>
       </tags>
   </entry>
   <entry>
@@ -13474,6 +13515,52 @@ Baidu m3jb 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【官中】闪亮☆女友</title>
+    <url>/886c65b9/</url>
+    <content><![CDATA[
+
+品牌：あざらしそふと、Lump of Sugar
+
+发售日期：2024&#x2F;08&#x2F;30
+
+类型：ADV &#x2F; 官方中文
+
+原画：萌木原ふみたけ
+
+剧本：保桜
+
+
+『 きら☆かの 』
+『 闪亮☆女友 』
+▼ 故事简介主角一一叶隐让，自称是班级里存在感稀薄的路人角色。尽管在现实世界里默默无闻，但在虚拟的网络世界里他隐藏自己的身份，是个名为“让羽岳人”的当红虚拟主播。
+现实生活中充当着路人角色，在网络上则受到了无数人的追捧和喜爱……然而就在某一天，因一时的疏忽大意，校内鼎鼎大名的同班同学一一绮罗星月姬发现了“让羽岳人”的真实身份就是自己。
+让深陷绝望，心情一下子跌落谷底，并开始担忧对方是否会泄露自己的身份，乃至是以此要挟来获取高额的封口费。但是一一
+「求求你了！请你收我为徒吧！」一一月姬提出的要求却大大出乎了他的意料。
+▼ 测试图
+        
+      
+
+▼ 官方中文
+
+更新修复了存读档及 Extra 打不开的问题。
+[250214][あざらしそふと×Lump of Sugar] きら☆かの 闪亮☆女友 steam版 [官中] (files) [v50832] 3yv8
+Baidu guci 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>Lump of Sugar</tag>
+        <tag>萌木原ふみたけ</tag>
+        <tag>あざらしそふと</tag>
+        <tag>保桜</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【官中】铁路浪漫谭 origin</title>
     <url>/4ee0c2f5/</url>
     <content><![CDATA[
@@ -13521,52 +13608,6 @@ Baidu m3jb 直链 Telegram
         <tag>進行豹</tag>
         <tag>爱上火车</tag>
         <tag>铁路浪漫谭 origin</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【官中】闪亮☆女友</title>
-    <url>/886c65b9/</url>
-    <content><![CDATA[
-
-品牌：あざらしそふと、Lump of Sugar
-
-发售日期：2024&#x2F;08&#x2F;30
-
-类型：ADV &#x2F; 官方中文
-
-原画：萌木原ふみたけ
-
-剧本：保桜
-
-
-『 きら☆かの 』
-『 闪亮☆女友 』
-▼ 故事简介主角一一叶隐让，自称是班级里存在感稀薄的路人角色。尽管在现实世界里默默无闻，但在虚拟的网络世界里他隐藏自己的身份，是个名为“让羽岳人”的当红虚拟主播。
-现实生活中充当着路人角色，在网络上则受到了无数人的追捧和喜爱……然而就在某一天，因一时的疏忽大意，校内鼎鼎大名的同班同学一一绮罗星月姬发现了“让羽岳人”的真实身份就是自己。
-让深陷绝望，心情一下子跌落谷底，并开始担忧对方是否会泄露自己的身份，乃至是以此要挟来获取高额的封口费。但是一一
-「求求你了！请你收我为徒吧！」一一月姬提出的要求却大大出乎了他的意料。
-▼ 测试图
-        
-      
-
-▼ 官方中文
-
-更新修复了存读档及 Extra 打不开的问题。
-[250214][あざらしそふと×Lump of Sugar] きら☆かの 闪亮☆女友 steam版 [官中] (files) [v50832] 3yv8
-Baidu guci 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>Lump of Sugar</tag>
-        <tag>萌木原ふみたけ</tag>
-        <tag>あざらしそふと</tag>
-        <tag>保桜</tag>
       </tags>
   </entry>
   <entry>
@@ -15007,6 +15048,26 @@ CPU 外部WRAM（256K）
       </tags>
   </entry>
   <entry>
+    <title>【教程】【转载】汉化基础教程——心态篇</title>
+    <url>/29f9deb6/</url>
+    <content><![CDATA[转载自pluto
+游戏汉化是一个费力又费时的工程，没有游戏厂商的开发源程序，没有固定的某个软件，也没有固定的方式，一切都得靠自己手工劳作。汉化游戏对个人的态度与心理素质要求都比较高，所以在开始学习汉化前有必要先上一堂心态课，用意在于让大家对汉化游戏有个思想上的认识，有个心理准备。
+汉化不是三言两语就能说清楚道明白的，也不是喝口水、眨下眼就能精通的！！！。各位初次接触的新人想必都怀着不同的理由才投身汉化的，但无论是什么最终目的都是想把一个个日文游戏变成通俗易懂的中文游戏。在这个共同点上是十分值得赞扬的，不过我也想提醒大家，希望大家对汉化有个正确的认识。汉化者必须具备的3个条件：1、坚持不懈、持之以恒的耐力。2、熟练的计算机操作能力。3、广泛的计算机知识。其中最为关键的就是耐心毅力，在汉化中必定会遇到现实与潜在的双重困难，任何一个困难都有可能使你放弃汉化，面对种种错综复杂的困难，良好的心态显得十分重要。困难不是不能克服，而是看你愿不愿意去克服。汉化不仅是游戏的汉化过程，同时也是自身能力提高的过程。而在这之中伴随的来自于自身（生活、学习等）和外界（Lamer）的压力同样可能使你屈服，这同样也得靠耐心来趋势自己继续前进。“勤能补拙”，良好的耐心毅力能弥补自己在其他方面的不足，而重点是“勤”。它可以使自己的能力得到飞速提高。从事汉化研究的人群多为青年，青年具有先天的求知欲与积极向上的精神，但是另一方面，中国青年浮躁、不踏实、意气用事的心理却往往会制约自身的能力提高。要想在汉化方面真有所建树首先就必须端正自己的思想，净化自己的心态。
+汉化对于计算机知识要求是广而不精，所以这给当代年轻人创造了极为便利的条件。即便是现在才开始学习，学起来也不费劲。说到学这个问题还得说一说。由于汉化的特殊性质在目前的社会看来并不能算作一个正规的行业，因此即便是电脑技术书籍泛滥的今天想要找到一本专门讲解游戏汉化理论原理的书实在是极为不容易，所以所有关于这方面的学习都利用网络来进行学习与交流。网络上有不少爱好游戏汉化的热心人，他们不但自己汉化游戏，也常常把自己学习的经验技术带给大家，传授给大家。“狼组”、“天使汉化小组”的网站上都有很详细的汉化知识讲解。目前大部分汉化人都是从那里起步的。如果你还是新人一定要去看，把那里旮旯里的东西都学到，都消化为自己东西。学习阶段不能只顾看，实践才是目的。大部分教程都是伴随一个例题游戏进行的汉化讲解与演示的，所以建议在学习的时候旁边最好是准备好这些个游戏素材，边学边做。当然，教程所教授的内容是十分简单的，又是十分片面的。而在亲自操刀的汉化过程中将会遇到很多无法预料的问题，需要大家克服浮躁的心理善于思考勤于思考。在真正掌握一些基础知识并具备一定能力后不能轻易自满。学到的这些还只是个开头，接下来还有更多更严峻的问题。这仍然需要持之以恒的学习态度。此外经验交流也是必不可少的，志同道合的几个人可以经常在一起讨论切磋，以达到共同进步的目的。自己不懂的要向别人请教，请教不是叫你去问这步该如何如何，下一步又该如何如何等等这样的操作性问题。应该问的是原理，即为什么需要这样？请教也不能产生依赖，绝不能一遇到问题就去问，问个没完没了。合理的是得知某一问题的原因以后首先要自行分析，认清问题的真正原因后去立刻解决问题，解决完后再进行横向纵向的拓展，即找到此问题的一般性与特殊性，哪些情况会出现这样的问题，对于出现的问题各自采取什么办法等等。再有，网上的汉化资料讲解的方法技巧都是最典型最普遍的流程，汉化没有固定的路径。游戏结构的多种多样，导致实现汉化的方式方法也可以多种多样，不要生硬地照搬硬套，要多思考，灵活运用；具体问题具体分析，不同的情况用不同的方法处理。在实践的过程中要善于积累适合自己的经验技术。同时，当遇到实际情况与教程不大相同或者相抵触的时候要能够举一反三。
+另外，在自身汉化经验上升到一定程度后熟练掌握一门计算机编程语言是十分必要的事情，汇编基础必不可少，很多时候都必须通过分析游戏指令来汉化游戏，而且这十分普遍，不懂的此技能的汉化者几乎不可能独立完成一个游戏的破解工作。高级程序语言，例如Basic C&#x2F;C++，要学会利用这些高级语言来编写小程序以达到事半功倍的效果，同时也是自身能力又一次提高的过程。关于语言的学习就大家自己去摸索吧。还要强调的是：汉化需要堆积大量的时间与精力，极不赞成高中学生来做这方面的研究，学生当以自身学业为重。
+汉化需要热情与激情，但更需要耐心与毅力，当你心中真正装有汉化的时候它就不再那么神秘得高不可攀了。
+小结：如果你能耐心地看完这篇枯燥得只有白底黑字的不涉及任何技术性的文章后仍然对汉化充满充满无限热情，那你就具备了汉化所必须的也是最基本的条件。以后的学习研究过程中一定要深思考、勤探索。汉化没有捷径可图，靠得是脚踏实地坚持不懈地再攀登。搞任何研究都不能有依赖性，汉化也不例外，绝不能像玩网络游戏那样寄希望于高手来带你，或者期待某个高手编写一套“外挂”来助你成功。汉化主要是靠自己的研究，我们学习的不仅仅是操作，而主要的应该是原理。因为汉化不像使用WORD编辑文书那样，学会了操作在哪台电脑上都是一样的进行。游戏是千变万化的，没有任何两款游戏的汉化操作是完全一样的。我们要掌握游戏运行的原理，汉化的原理，从而才能举一反三灵活运用。汉化新手一定要注意自己的心态问题，只有建立正确的汉化观才有可能真正学会汉化。从下次开始我们将逐步展开汉化的学习，希望对汉化有热情的玩家学有所获。
+]]></content>
+      <categories>
+        <category>搬运</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>教程</tag>
+        <tag>搬运</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【教程】【转载】汉化基础教程——基础篇（下）</title>
     <url>/1fdc4ff6/</url>
     <content><![CDATA[转载自TGbus
@@ -15033,26 +15094,6 @@ bpp这个单位在以后经常会用到，其中的含义一定要深刻体会�
         <tag>汉化</tag>
         <tag>教程</tag>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【教程】【转载】汉化基础教程——心态篇</title>
-    <url>/29f9deb6/</url>
-    <content><![CDATA[转载自pluto
-游戏汉化是一个费力又费时的工程，没有游戏厂商的开发源程序，没有固定的某个软件，也没有固定的方式，一切都得靠自己手工劳作。汉化游戏对个人的态度与心理素质要求都比较高，所以在开始学习汉化前有必要先上一堂心态课，用意在于让大家对汉化游戏有个思想上的认识，有个心理准备。
-汉化不是三言两语就能说清楚道明白的，也不是喝口水、眨下眼就能精通的！！！。各位初次接触的新人想必都怀着不同的理由才投身汉化的，但无论是什么最终目的都是想把一个个日文游戏变成通俗易懂的中文游戏。在这个共同点上是十分值得赞扬的，不过我也想提醒大家，希望大家对汉化有个正确的认识。汉化者必须具备的3个条件：1、坚持不懈、持之以恒的耐力。2、熟练的计算机操作能力。3、广泛的计算机知识。其中最为关键的就是耐心毅力，在汉化中必定会遇到现实与潜在的双重困难，任何一个困难都有可能使你放弃汉化，面对种种错综复杂的困难，良好的心态显得十分重要。困难不是不能克服，而是看你愿不愿意去克服。汉化不仅是游戏的汉化过程，同时也是自身能力提高的过程。而在这之中伴随的来自于自身（生活、学习等）和外界（Lamer）的压力同样可能使你屈服，这同样也得靠耐心来趋势自己继续前进。“勤能补拙”，良好的耐心毅力能弥补自己在其他方面的不足，而重点是“勤”。它可以使自己的能力得到飞速提高。从事汉化研究的人群多为青年，青年具有先天的求知欲与积极向上的精神，但是另一方面，中国青年浮躁、不踏实、意气用事的心理却往往会制约自身的能力提高。要想在汉化方面真有所建树首先就必须端正自己的思想，净化自己的心态。
-汉化对于计算机知识要求是广而不精，所以这给当代年轻人创造了极为便利的条件。即便是现在才开始学习，学起来也不费劲。说到学这个问题还得说一说。由于汉化的特殊性质在目前的社会看来并不能算作一个正规的行业，因此即便是电脑技术书籍泛滥的今天想要找到一本专门讲解游戏汉化理论原理的书实在是极为不容易，所以所有关于这方面的学习都利用网络来进行学习与交流。网络上有不少爱好游戏汉化的热心人，他们不但自己汉化游戏，也常常把自己学习的经验技术带给大家，传授给大家。“狼组”、“天使汉化小组”的网站上都有很详细的汉化知识讲解。目前大部分汉化人都是从那里起步的。如果你还是新人一定要去看，把那里旮旯里的东西都学到，都消化为自己东西。学习阶段不能只顾看，实践才是目的。大部分教程都是伴随一个例题游戏进行的汉化讲解与演示的，所以建议在学习的时候旁边最好是准备好这些个游戏素材，边学边做。当然，教程所教授的内容是十分简单的，又是十分片面的。而在亲自操刀的汉化过程中将会遇到很多无法预料的问题，需要大家克服浮躁的心理善于思考勤于思考。在真正掌握一些基础知识并具备一定能力后不能轻易自满。学到的这些还只是个开头，接下来还有更多更严峻的问题。这仍然需要持之以恒的学习态度。此外经验交流也是必不可少的，志同道合的几个人可以经常在一起讨论切磋，以达到共同进步的目的。自己不懂的要向别人请教，请教不是叫你去问这步该如何如何，下一步又该如何如何等等这样的操作性问题。应该问的是原理，即为什么需要这样？请教也不能产生依赖，绝不能一遇到问题就去问，问个没完没了。合理的是得知某一问题的原因以后首先要自行分析，认清问题的真正原因后去立刻解决问题，解决完后再进行横向纵向的拓展，即找到此问题的一般性与特殊性，哪些情况会出现这样的问题，对于出现的问题各自采取什么办法等等。再有，网上的汉化资料讲解的方法技巧都是最典型最普遍的流程，汉化没有固定的路径。游戏结构的多种多样，导致实现汉化的方式方法也可以多种多样，不要生硬地照搬硬套，要多思考，灵活运用；具体问题具体分析，不同的情况用不同的方法处理。在实践的过程中要善于积累适合自己的经验技术。同时，当遇到实际情况与教程不大相同或者相抵触的时候要能够举一反三。
-另外，在自身汉化经验上升到一定程度后熟练掌握一门计算机编程语言是十分必要的事情，汇编基础必不可少，很多时候都必须通过分析游戏指令来汉化游戏，而且这十分普遍，不懂的此技能的汉化者几乎不可能独立完成一个游戏的破解工作。高级程序语言，例如Basic C&#x2F;C++，要学会利用这些高级语言来编写小程序以达到事半功倍的效果，同时也是自身能力又一次提高的过程。关于语言的学习就大家自己去摸索吧。还要强调的是：汉化需要堆积大量的时间与精力，极不赞成高中学生来做这方面的研究，学生当以自身学业为重。
-汉化需要热情与激情，但更需要耐心与毅力，当你心中真正装有汉化的时候它就不再那么神秘得高不可攀了。
-小结：如果你能耐心地看完这篇枯燥得只有白底黑字的不涉及任何技术性的文章后仍然对汉化充满充满无限热情，那你就具备了汉化所必须的也是最基本的条件。以后的学习研究过程中一定要深思考、勤探索。汉化没有捷径可图，靠得是脚踏实地坚持不懈地再攀登。搞任何研究都不能有依赖性，汉化也不例外，绝不能像玩网络游戏那样寄希望于高手来带你，或者期待某个高手编写一套“外挂”来助你成功。汉化主要是靠自己的研究，我们学习的不仅仅是操作，而主要的应该是原理。因为汉化不像使用WORD编辑文书那样，学会了操作在哪台电脑上都是一样的进行。游戏是千变万化的，没有任何两款游戏的汉化操作是完全一样的。我们要掌握游戏运行的原理，汉化的原理，从而才能举一反三灵活运用。汉化新手一定要注意自己的心态问题，只有建立正确的汉化观才有可能真正学会汉化。从下次开始我们将逐步展开汉化的学习，希望对汉化有热情的玩家学有所获。
-]]></content>
-      <categories>
-        <category>搬运</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>教程</tag>
-        <tag>搬运</tag>
       </tags>
   </entry>
   <entry>
@@ -18695,6 +18736,44 @@ Baidu utvi 直链
       </tags>
   </entry>
   <entry>
+    <title>【日文硬盘】恋にはあまえが必要です ～もっとあまえてもらうだけ／恋にはあまえが必要ですFandisk</title>
+    <url>/a0cc7876/</url>
+    <content><![CDATA[
+
+品牌：HOOKSOFT
+
+发售日期：2024&#x2F;01&#x2F;26
+
+类型：ADV &#x2F; 日文原版
+
+原画：Go-1
+
+剧本：桜城なお、モーリー
+
+
+『 恋にはあまえが必要です ～もっとあまえてもらうだけ 』
+『恋にはあまえが必要ですFandisk』
+▼ 故事简介：～未来へと繋がっていく物語～大好きな彼にいっぱい甘えて可愛がってほしい！本作はそんな想いを胸いっぱいに抱えたヒロインと過ごすありふれた日常を描いたアフターストーリーです。そしてその先、二人がどんな未来へと歩んでいくのか――必見の内容となっています！
+桜雅&#x2F;千羽&#x2F;氷華&#x2F;満留ヒロイン４人それぞれの『主人公に甘える』エピソードを１本に収録したミニファンディスクです。
+
+[240126][HOOKSOFT] 恋にはあまえが必要です ～もっとあまえてもらうだけ DL版 (files) xrmz
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>日文原版</category>
+      </categories>
+      <tags>
+        <tag>ADV</tag>
+        <tag>モーリー</tag>
+        <tag>HOOKSOFT</tag>
+        <tag>日文原版</tag>
+        <tag>日文硬盘</tag>
+        <tag>Go-1</tag>
+        <tag>桜城なお</tag>
+        <tag>Fandisk</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【日文硬盘】廃村少女［弐］ ～陰り誘う秘姫の匣～</title>
     <url>/1ffeeb8b/</url>
     <content><![CDATA[
@@ -18750,44 +18829,6 @@ Baidu 8v9r 直链 Telegram
         <tag>蒼瀬</tag>
         <tag>薄迷</tag>
         <tag>たかしな浅妃</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【日文硬盘】恋にはあまえが必要です ～もっとあまえてもらうだけ／恋にはあまえが必要ですFandisk</title>
-    <url>/a0cc7876/</url>
-    <content><![CDATA[
-
-品牌：HOOKSOFT
-
-发售日期：2024&#x2F;01&#x2F;26
-
-类型：ADV &#x2F; 日文原版
-
-原画：Go-1
-
-剧本：桜城なお、モーリー
-
-
-『 恋にはあまえが必要です ～もっとあまえてもらうだけ 』
-『恋にはあまえが必要ですFandisk』
-▼ 故事简介：～未来へと繋がっていく物語～大好きな彼にいっぱい甘えて可愛がってほしい！本作はそんな想いを胸いっぱいに抱えたヒロインと過ごすありふれた日常を描いたアフターストーリーです。そしてその先、二人がどんな未来へと歩んでいくのか――必見の内容となっています！
-桜雅&#x2F;千羽&#x2F;氷華&#x2F;満留ヒロイン４人それぞれの『主人公に甘える』エピソードを１本に収録したミニファンディスクです。
-
-[240126][HOOKSOFT] 恋にはあまえが必要です ～もっとあまえてもらうだけ DL版 (files) xrmz
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>日文原版</category>
-      </categories>
-      <tags>
-        <tag>ADV</tag>
-        <tag>モーリー</tag>
-        <tag>HOOKSOFT</tag>
-        <tag>日文原版</tag>
-        <tag>日文硬盘</tag>
-        <tag>Go-1</tag>
-        <tag>桜城なお</tag>
-        <tag>Fandisk</tag>
       </tags>
   </entry>
   <entry>
@@ -19678,58 +19719,6 @@ Baidu s648 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【日文硬盘】紬の花嫁</title>
-    <url>/7e511fe8/</url>
-    <content><![CDATA[
-
-品牌：Hending
-
-发售日期：2024&#x2F;09&#x2F;27
-
-类型：ADV &#x2F; 日文原版
-
-原画：みつまいも
-
-剧本：虚空北星
-
-
-『 紬の花嫁 』
-▼ 故事简介樱灶——。樱花四季盛放，略显不可思议的土地。
-“永久樱”抚育的两位少女。真白葵与贵丽山吹。
-作为挚友及家人——自儿时起便携手互相扶持的安宁日常，因微不足道的契机产生剧变。
-「唤醒吾的愚人，就是你吗」
-禁忌咒物。“倘若此物出世——遂有灾厄将至”
-此即某一家族手札中所记载的秘藏之物。既为忌讳之物，亦是悲哀之物。
-其名曰「吐泻丸」。
-这是——。于樱雪永恒纷飞的町之一隅，咒物与两名少女共同编织而成的物语。
-据说会长出JB🤔互凿
-▼ 测试图
-        
-      
-
-日文硬盘运行 Tsumugi_Crack.exe 启动游戏。
-
-(18禁ゲーム) [240927][Hending] 紬の花嫁+下着パッチ+壁紙 (files) h9fk
-Baidu 999v 123 IGjE 
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>日文原版</category>
-      </categories>
-      <tags>
-        <tag>TS</tag>
-        <tag>性转</tag>
-        <tag>ADV</tag>
-        <tag>动态</tag>
-        <tag>日文原版</tag>
-        <tag>日文硬盘</tag>
-        <tag>Hending</tag>
-        <tag>AI汉化</tag>
-        <tag>みつまいも</tag>
-        <tag>虚空北星</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【日文硬盘】纯白交响曲 -Love is pure white- Remake for FHD</title>
     <url>/c03ea4cd/</url>
     <content><![CDATA[
@@ -19779,6 +19768,58 @@ CG预览
         <tag>北川晴</tag>
         <tag>日文原版</tag>
         <tag>需转区</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【日文硬盘】紬の花嫁</title>
+    <url>/7e511fe8/</url>
+    <content><![CDATA[
+
+品牌：Hending
+
+发售日期：2024&#x2F;09&#x2F;27
+
+类型：ADV &#x2F; 日文原版
+
+原画：みつまいも
+
+剧本：虚空北星
+
+
+『 紬の花嫁 』
+▼ 故事简介樱灶——。樱花四季盛放，略显不可思议的土地。
+“永久樱”抚育的两位少女。真白葵与贵丽山吹。
+作为挚友及家人——自儿时起便携手互相扶持的安宁日常，因微不足道的契机产生剧变。
+「唤醒吾的愚人，就是你吗」
+禁忌咒物。“倘若此物出世——遂有灾厄将至”
+此即某一家族手札中所记载的秘藏之物。既为忌讳之物，亦是悲哀之物。
+其名曰「吐泻丸」。
+这是——。于樱雪永恒纷飞的町之一隅，咒物与两名少女共同编织而成的物语。
+据说会长出JB🤔互凿
+▼ 测试图
+        
+      
+
+日文硬盘运行 Tsumugi_Crack.exe 启动游戏。
+
+(18禁ゲーム) [240927][Hending] 紬の花嫁+下着パッチ+壁紙 (files) h9fk
+Baidu 999v 123 IGjE 
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>日文原版</category>
+      </categories>
+      <tags>
+        <tag>TS</tag>
+        <tag>性转</tag>
+        <tag>ADV</tag>
+        <tag>动态</tag>
+        <tag>日文原版</tag>
+        <tag>日文硬盘</tag>
+        <tag>Hending</tag>
+        <tag>AI汉化</tag>
+        <tag>みつまいも</tag>
+        <tag>虚空北星</tag>
       </tags>
   </entry>
   <entry>
@@ -19835,6 +19876,53 @@ Baidu b2qi 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【日文硬盘】聖奴隷学園3</title>
+    <url>/7926e23/</url>
+    <content><![CDATA[
+
+品牌：Liquid
+
+发售日期：2025-09-26
+
+类型：ADV
+
+原画：夏彦
+
+剧本：小沢裕樹、和泉万夜、屋島狸
+
+
+『 聖奴隷学園3 』
+▼ 故事简介圣百合学园。遵循“如百合花般坚强、柔韧”的校训，重视学生独立自主的名门学园。建校以来，在学业、运动和艺术等各领域均培养出众多杰出的学生。然而，这所学园隐藏着绝对不可让外界知晓的黑暗面。
+&lt;南净家&gt;
+以贩卖人口为首，实施各种罪行的大陆系非法组织正暗中支配学园。
+与南净家水火不容的是&lt;西纪家&gt;。西纪家凭借贩卖性奴隶在财政界建立起雄厚人脉，同样从事贩卖人口的南净则是令其深恶痛绝的同行。为削弱南净的势力，西纪向圣百合学园派遣了一位刺客。
+男人名为狮堂大雅。只要是锁定的对象，无论何等女性都会被他调教、堕落成性奴隶的高超女衒（调教师）。狮堂以社会科教师的身份作为掩护，向圣百合学园的女学生及女教师们伸出毒手……。
+▼ 测试图
+        
+      
+
+▼ 日文原版[250926][Liquid] 聖奴隷学園3 DL版 [日文] (files) [v51465] 7u2a
+Baidu ku3i 直链 Telegram
+▼ 相关补丁地址AI翻译+全修图补丁
+鲲GalGame补丁
+2dfan
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>日文原版</category>
+      </categories>
+      <tags>
+        <tag>ADV</tag>
+        <tag>Liquid</tag>
+        <tag>小沢裕樹</tag>
+        <tag>和泉万夜</tag>
+        <tag>日文原版</tag>
+        <tag>日文硬盘</tag>
+        <tag>夏彦</tag>
+        <tag>屋島狸</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【日文硬盘】聖なるかな Special Edition</title>
     <url>/b84c4589/</url>
     <content><![CDATA[
@@ -19883,53 +19971,6 @@ Baidu fa55 123 JU9K
         <tag>人丸</tag>
         <tag>高瀬奈緒文</tag>
         <tag>海法紀光</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【日文硬盘】聖奴隷学園3</title>
-    <url>/7926e23/</url>
-    <content><![CDATA[
-
-品牌：Liquid
-
-发售日期：2025-09-26
-
-类型：ADV
-
-原画：夏彦
-
-剧本：小沢裕樹、和泉万夜、屋島狸
-
-
-『 聖奴隷学園3 』
-▼ 故事简介圣百合学园。遵循“如百合花般坚强、柔韧”的校训，重视学生独立自主的名门学园。建校以来，在学业、运动和艺术等各领域均培养出众多杰出的学生。然而，这所学园隐藏着绝对不可让外界知晓的黑暗面。
-&lt;南净家&gt;
-以贩卖人口为首，实施各种罪行的大陆系非法组织正暗中支配学园。
-与南净家水火不容的是&lt;西纪家&gt;。西纪家凭借贩卖性奴隶在财政界建立起雄厚人脉，同样从事贩卖人口的南净则是令其深恶痛绝的同行。为削弱南净的势力，西纪向圣百合学园派遣了一位刺客。
-男人名为狮堂大雅。只要是锁定的对象，无论何等女性都会被他调教、堕落成性奴隶的高超女衒（调教师）。狮堂以社会科教师的身份作为掩护，向圣百合学园的女学生及女教师们伸出毒手……。
-▼ 测试图
-        
-      
-
-▼ 日文原版[250926][Liquid] 聖奴隷学園3 DL版 [日文] (files) [v51465] 7u2a
-Baidu ku3i 直链 Telegram
-▼ 相关补丁地址AI翻译+全修图补丁
-鲲GalGame补丁
-2dfan
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>日文原版</category>
-      </categories>
-      <tags>
-        <tag>ADV</tag>
-        <tag>Liquid</tag>
-        <tag>小沢裕樹</tag>
-        <tag>和泉万夜</tag>
-        <tag>日文原版</tag>
-        <tag>日文硬盘</tag>
-        <tag>夏彦</tag>
-        <tag>屋島狸</tag>
       </tags>
   </entry>
   <entry>
@@ -20701,6 +20742,7 @@ Pikpak ma5c
       <tags>
         <tag>汉化</tag>
         <tag>Key</tag>
+        <tag>ADV</tag>
         <tag>Visual Art&#39;s</tag>
         <tag>麻枝准</tag>
         <tag>凉元悠一</tag>
@@ -20709,7 +20751,6 @@ Pikpak ma5c
         <tag>樋上至</tag>
         <tag>折户伸治</tag>
         <tag>户越まごめ</tag>
-        <tag>ADV</tag>
       </tags>
   </entry>
   <entry>
@@ -21398,49 +21439,6 @@ Baidu 8bm4 123 Ia9w 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【汉化】HaremKingdom</title>
-    <url>/d75d7e68/</url>
-    <content><![CDATA[
-
-品牌：SMEE
-
-发售日期：2020&#x2F;02&#x2F;28
-
-类型：ADV &#x2F; 渐近汉化组
-
-原画：谷山さん
-
-剧本：早瀬ゆう
-
-
-『 ハーレムキングダム 』
-『 HaremKingdom 』
-▼ 故事简介：某个休息日。以乐天知命为信条，却对恋爱及女性抱有阴影的主人公，今天又被青梅竹马说教了。从心所欲，乐天知命。尽管这是他的本愿，但在暴怒的青梅竹马光看来，亦是逃避与女性交往的手段。长此以往主人公将成为废物一个。就在希望给他的人生激起一点波澜时，二人突然被强烈的光芒包围，飞向了异世界。
-二人醒来后，发现身处海运业繁荣的异国土地。自称国相的女性，出现在一脸茫然大为惑乱的主人公面前，告知他是国家幸存的“最后的王”。
-就这样，主人公飞向异世界，被告知为王，连拒绝权也没有就成为新王接受臣民的朝拜。而他人生的初恋，则是以「王的使命」为名强制进行的。
-“构筑繁荣的后宫，为子孙满堂与国家发展鞠躬尽瘁”
-向恋爱恐惧的他施加的「强制后宫」这样的荒诞枷锁。意识之时，邻国订婚的公主，以及对他兴趣满满的贵族美少女也登场了。在每天发出悲鸣，被女性包围的日子里，青梅竹马光亦变得战战兢兢……！
-「我想要普通的恋爱！」主人公波澜万丈的后宫生活从此掀开帷幕……！！
-更新汉化修正补丁1.2
-
-[200228][SMEE] ハーレムキングダム 中国語版 {他＆她❀心渐近汉化组} xp4k
-Baidu x16v 123 lyNt 微软直链
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>早瀬ゆう</tag>
-        <tag>SMEE</tag>
-        <tag>谷山さん</tag>
-        <tag>渐近汉化组</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【汉化】HimeのちHoney</title>
     <url>/68f8be2b/</url>
     <content><![CDATA[
@@ -21484,6 +21482,49 @@ Baidu 3jr7 微软直链 直链
         <tag>天都</tag>
         <tag>藤井リルケ</tag>
         <tag>優樹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【汉化】HaremKingdom</title>
+    <url>/d75d7e68/</url>
+    <content><![CDATA[
+
+品牌：SMEE
+
+发售日期：2020&#x2F;02&#x2F;28
+
+类型：ADV &#x2F; 渐近汉化组
+
+原画：谷山さん
+
+剧本：早瀬ゆう
+
+
+『 ハーレムキングダム 』
+『 HaremKingdom 』
+▼ 故事简介：某个休息日。以乐天知命为信条，却对恋爱及女性抱有阴影的主人公，今天又被青梅竹马说教了。从心所欲，乐天知命。尽管这是他的本愿，但在暴怒的青梅竹马光看来，亦是逃避与女性交往的手段。长此以往主人公将成为废物一个。就在希望给他的人生激起一点波澜时，二人突然被强烈的光芒包围，飞向了异世界。
+二人醒来后，发现身处海运业繁荣的异国土地。自称国相的女性，出现在一脸茫然大为惑乱的主人公面前，告知他是国家幸存的“最后的王”。
+就这样，主人公飞向异世界，被告知为王，连拒绝权也没有就成为新王接受臣民的朝拜。而他人生的初恋，则是以「王的使命」为名强制进行的。
+“构筑繁荣的后宫，为子孙满堂与国家发展鞠躬尽瘁”
+向恋爱恐惧的他施加的「强制后宫」这样的荒诞枷锁。意识之时，邻国订婚的公主，以及对他兴趣满满的贵族美少女也登场了。在每天发出悲鸣，被女性包围的日子里，青梅竹马光亦变得战战兢兢……！
+「我想要普通的恋爱！」主人公波澜万丈的后宫生活从此掀开帷幕……！！
+更新汉化修正补丁1.2
+
+[200228][SMEE] ハーレムキングダム 中国語版 {他＆她❀心渐近汉化组} xp4k
+Baidu x16v 123 lyNt 微软直链
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>早瀬ゆう</tag>
+        <tag>SMEE</tag>
+        <tag>谷山さん</tag>
+        <tag>渐近汉化组</tag>
       </tags>
   </entry>
   <entry>
@@ -21574,8 +21615,8 @@ Baidu pucu 微软直链 直链
       <tags>
         <tag>汉化</tag>
         <tag>Key</tag>
-        <tag>麻枝准</tag>
         <tag>ADV</tag>
+        <tag>麻枝准</tag>
         <tag>全年龄</tag>
         <tag>樋上いたる</tag>
         <tag>Na-Ga</tag>
@@ -21626,8 +21667,8 @@ Baidu b4dz 123 Ogl0 微软直链
       </categories>
       <tags>
         <tag>汉化</tag>
-        <tag>麻枝准</tag>
         <tag>ADV</tag>
+        <tag>麻枝准</tag>
         <tag>樋上いたる</tag>
         <tag>久弥直樹</tag>
         <tag>Tactics</tag>
@@ -22306,6 +22347,46 @@ Baidu 6bwk 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【汉化】Traumend ~Etude~／トレイメント～Etude～</title>
+    <url>/7570cd5f/</url>
+    <content><![CDATA[
+
+品牌：Traumend (同人)
+
+发售日期：2013&#x2F;12&#x2F;31
+
+类型：ADV &#x2F; 音缘汉化组
+
+原画：すずのね
+
+剧本：ゆめ
+
+
+『 トレイメント～Etude～ 』
+『 Traumend ~Etude~ 』
+▼ 故事简介因幼时的交通事故、不得不依靠轮椅生活的少女纱阳，某日邂逅了在唱片公司工作的青年星一。此前纱阳始终认为，只要还能弹奏生母留下的”钢琴”，便别无他求。但在与星一交往的过程中，她逐渐意识到自己心境发生的变化。与星一相遇的那个清晨，纱阳的梦究竟是什么？而她又从梦中聆听到了怎样的声音？
+▼ 测试图
+        
+      
+
+▼ 音缘汉化组 汉化作品[131231][Traumend] トレイメント～Etude～ Traumend ~Etude~ [汉化] (files) [音缘汉化组][v26202] 4buu
+Baidu f9xh 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>Traumend</tag>
+        <tag>音缘汉化组</tag>
+        <tag>すずのね</tag>
+        <tag>ゆめ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【汉化】Tick！Tack！</title>
     <url>/1feb0a9e/</url>
     <content><![CDATA[
@@ -22344,46 +22425,6 @@ Baidu skcf 直链 Telegram
         <tag>鈴平ひろ</tag>
         <tag>あごバリア</tag>
         <tag>gddlxz</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化】Traumend ~Etude~／トレイメント～Etude～</title>
-    <url>/7570cd5f/</url>
-    <content><![CDATA[
-
-品牌：Traumend (同人)
-
-发售日期：2013&#x2F;12&#x2F;31
-
-类型：ADV &#x2F; 音缘汉化组
-
-原画：すずのね
-
-剧本：ゆめ
-
-
-『 トレイメント～Etude～ 』
-『 Traumend ~Etude~ 』
-▼ 故事简介因幼时的交通事故、不得不依靠轮椅生活的少女纱阳，某日邂逅了在唱片公司工作的青年星一。此前纱阳始终认为，只要还能弹奏生母留下的”钢琴”，便别无他求。但在与星一交往的过程中，她逐渐意识到自己心境发生的变化。与星一相遇的那个清晨，纱阳的梦究竟是什么？而她又从梦中聆听到了怎样的声音？
-▼ 测试图
-        
-      
-
-▼ 音缘汉化组 汉化作品[131231][Traumend] トレイメント～Etude～ Traumend ~Etude~ [汉化] (files) [音缘汉化组][v26202] 4buu
-Baidu f9xh 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>Traumend</tag>
-        <tag>音缘汉化组</tag>
-        <tag>すずのね</tag>
-        <tag>ゆめ</tag>
       </tags>
   </entry>
   <entry>
@@ -22547,55 +22588,6 @@ Baidu 4xwn 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【汉化】【官中】间宫摩美想要疗愈你/间宫摩美想要治愈你</title>
-    <url>/a0f91ae6/</url>
-    <content><![CDATA[
-
-品牌：Argonauts
-
-发售日期：2022&#x2F;04&#x2F;28
-
-类型：ADV &#x2F; 官方中文 &#x2F; 紫苜苜个人汉化
-
-原画：やまかぜ嵐、neon
-
-剧本：灰瞑、呉
-
-
-『间宫摩美想要疗愈你』
-『间宫摩美想要治愈你』
-▼ 故事简介：这里是只有女人（魅魔）的村子一旦踏入便再无法离开——因为被治愈死了♥️
-主人公广濑浩市凡事总是不走运。
-工作单位突然倒闭，成为无业游民的主人公漫无目的地在街上游荡。没有钱没有女朋友，也没脸去见朋友。
-“啊——，好想被治愈啊……”
-就是处于会让人自然想要这样碎碎念的境遇……
-同时，女主角·间宫摩美也身处同一场所。她的目的是寻找拥有特别能力的男性。
-于是。主人公被摩美带着来到了陌生的村庄。再也没法从那里离开——什么的，那时还完全不曾想到过。
-&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;
-汉化版
-[220428][Argonauts] 間宮摩美は癒やしてあげたい 中国語版 (files) wgpi
-官方中文
-[220428][Argonauts] 間宮摩美は癒やしてあげたい steam版 (files) u3zp
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-        <category>官中</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>官方中文</tag>
-        <tag>ADV</tag>
-        <tag>Argonauts</tag>
-        <tag>やまかぜ嵐</tag>
-        <tag>灰瞑</tag>
-        <tag>紫苜苜个人汉化</tag>
-        <tag>neon</tag>
-        <tag>呉</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【汉化】おっぱいハート～彼女はケダモノ発情期ッ!?～</title>
     <url>/f90b7c56/</url>
     <content><![CDATA[
@@ -22653,6 +22645,55 @@ Baidu m2ew 123 Zhwo 微软直链
         <tag>庵乃音人</tag>
         <tag>不二川“でぇすて”巴人</tag>
         <tag>甲太郎</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【汉化】【官中】间宫摩美想要疗愈你/间宫摩美想要治愈你</title>
+    <url>/a0f91ae6/</url>
+    <content><![CDATA[
+
+品牌：Argonauts
+
+发售日期：2022&#x2F;04&#x2F;28
+
+类型：ADV &#x2F; 官方中文 &#x2F; 紫苜苜个人汉化
+
+原画：やまかぜ嵐、neon
+
+剧本：灰瞑、呉
+
+
+『间宫摩美想要疗愈你』
+『间宫摩美想要治愈你』
+▼ 故事简介：这里是只有女人（魅魔）的村子一旦踏入便再无法离开——因为被治愈死了♥️
+主人公广濑浩市凡事总是不走运。
+工作单位突然倒闭，成为无业游民的主人公漫无目的地在街上游荡。没有钱没有女朋友，也没脸去见朋友。
+“啊——，好想被治愈啊……”
+就是处于会让人自然想要这样碎碎念的境遇……
+同时，女主角·间宫摩美也身处同一场所。她的目的是寻找拥有特别能力的男性。
+于是。主人公被摩美带着来到了陌生的村庄。再也没法从那里离开——什么的，那时还完全不曾想到过。
+&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;&#x3D;
+汉化版
+[220428][Argonauts] 間宮摩美は癒やしてあげたい 中国語版 (files) wgpi
+官方中文
+[220428][Argonauts] 間宮摩美は癒やしてあげたい steam版 (files) u3zp
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+        <category>官中</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>官方中文</tag>
+        <tag>ADV</tag>
+        <tag>Argonauts</tag>
+        <tag>やまかぜ嵐</tag>
+        <tag>灰瞑</tag>
+        <tag>紫苜苜个人汉化</tag>
+        <tag>neon</tag>
+        <tag>呉</tag>
       </tags>
   </entry>
   <entry>
@@ -22748,6 +22789,54 @@ Baidu rrhu 直链 Telegram
       </tags>
   </entry>
   <entry>
+    <title>【汉化】不要践踏天使的羽毛</title>
+    <url>/a0fd2a6a/</url>
+    <content><![CDATA[
+
+品牌：MEPHISTO
+
+发售日期：2011-07-29
+
+类型：ADV &#x2F; 千夏汉化组
+
+原画：蛇足せんたろう、ヨダ
+
+剧本：朱門優、ほしまる
+
+
+『 天使の羽根を踏まないでっ 』
+『 不要践踏天使的羽毛 』
+▼ 故事简介──上帝的邻座被认为是空着的。并且只有“μ （ミュー）”才被允许坐在那个位置──
+“世界将要灭亡”这样的言论自古开始就有很多预言家不断发出，不过这些家伙其实都不过是些投机分子而已。不过，比现在早些时候的“现代”。预言真的应验了。面对真的降临的世界末日，人们只能束手待毙。
+不过，上帝拯救了我们。如同预言一般，谁都不会真的相信的上帝，拯救了这个世界。
+因此而变得备受关注的是这个“聖ソルイルナ学园”。在这里，上帝将选出传说中的“μ （ミュー）”。所谓的“μ”，是能获得坐在上帝旁边空位的资格，并且能够附耳对上帝说出自己愿望的人。因此，许下了拯救这个世界的愿望的人，也就是这个“μ”了。
+──正是因为我家大小姐准备就读那所学校，故事才这样拉开了帷幕──
+▼ 测试图
+        
+      
+
+▼ 千夏汉化组 汉化作品[110729][MEPHISTO] 天使の羽根を踏まないでっ 不要践踏天使的羽毛 [汉化] (files) [千夏汉化组&amp;V1_02][v6411] xwqb
+Baidu jxcs 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>伪娘</tag>
+        <tag>女装</tag>
+        <tag>MEPHISTO</tag>
+        <tag>千夏汉化组</tag>
+        <tag>蛇足せんたろう</tag>
+        <tag>ヨダ</tag>
+        <tag>朱門優</tag>
+        <tag>ほしまる</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【汉化】一个人的感质空间</title>
     <url>/b24db34e/</url>
     <content><![CDATA[
@@ -22788,59 +22877,11 @@ Baidu r4cm 直链 Telegram
       <tags>
         <tag>汉化</tag>
         <tag>ADV</tag>
+        <tag>千夏汉化组</tag>
         <tag>10mile</tag>
         <tag>笛</tag>
         <tag>J-MENT</tag>
         <tag>松本慎一郎</tag>
-        <tag>千夏汉化组</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化】不要践踏天使的羽毛</title>
-    <url>/a0fd2a6a/</url>
-    <content><![CDATA[
-
-品牌：MEPHISTO
-
-发售日期：2011-07-29
-
-类型：ADV &#x2F; 千夏汉化组
-
-原画：蛇足せんたろう、ヨダ
-
-剧本：朱門優、ほしまる
-
-
-『 天使の羽根を踏まないでっ 』
-『 不要践踏天使的羽毛 』
-▼ 故事简介──上帝的邻座被认为是空着的。并且只有“μ （ミュー）”才被允许坐在那个位置──
-“世界将要灭亡”这样的言论自古开始就有很多预言家不断发出，不过这些家伙其实都不过是些投机分子而已。不过，比现在早些时候的“现代”。预言真的应验了。面对真的降临的世界末日，人们只能束手待毙。
-不过，上帝拯救了我们。如同预言一般，谁都不会真的相信的上帝，拯救了这个世界。
-因此而变得备受关注的是这个“聖ソルイルナ学园”。在这里，上帝将选出传说中的“μ （ミュー）”。所谓的“μ”，是能获得坐在上帝旁边空位的资格，并且能够附耳对上帝说出自己愿望的人。因此，许下了拯救这个世界的愿望的人，也就是这个“μ”了。
-──正是因为我家大小姐准备就读那所学校，故事才这样拉开了帷幕──
-▼ 测试图
-        
-      
-
-▼ 千夏汉化组 汉化作品[110729][MEPHISTO] 天使の羽根を踏まないでっ 不要践踏天使的羽毛 [汉化] (files) [千夏汉化组&amp;V1_02][v6411] xwqb
-Baidu jxcs 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>伪娘</tag>
-        <tag>女装</tag>
-        <tag>千夏汉化组</tag>
-        <tag>MEPHISTO</tag>
-        <tag>蛇足せんたろう</tag>
-        <tag>ヨダ</tag>
-        <tag>朱門優</tag>
-        <tag>ほしまる</tag>
       </tags>
   </entry>
   <entry>
@@ -23145,11 +23186,11 @@ Baidu p54d 直链 Telegram
       <tags>
         <tag>汉化</tag>
         <tag>ADV</tag>
+        <tag>千夏汉化组</tag>
         <tag>10mile</tag>
         <tag>笛</tag>
         <tag>J-MENT</tag>
         <tag>松本慎一郎</tag>
-        <tag>千夏汉化组</tag>
       </tags>
   </entry>
   <entry>
@@ -24549,6 +24590,46 @@ Error設定ファイルの読み込みに失敗しました。ランチャーか
       </tags>
   </entry>
   <entry>
+    <title>【汉化】墓多DYINGZOMBIES～Second Chance for BEAUTIFUL LIVE～</title>
+    <url>/ebc100af/</url>
+    <content><![CDATA[
+
+品牌：あかべぇそふとすりぃ
+
+发售日期：2020&#x2F;04&#x2F;24
+
+类型：ADV &#x2F; 直顺哉个人汉化
+
+原画：七色なづ
+
+剧本：柳葉桃夜、高橋左手
+
+
+『 墓多DYINGZOMBIES～Second Chance for BEAUTIFUL LIVE～ 』
+▼ 故事简介：修罗之城，墓多，行尸走肉之地。僵尸没有未来，光是活着就已拼尽全力。
+这样的世界里，却有少女（僵尸）不忘初心。在修罗之城悠闲度日，原谍报机关特工的丸绵（主人公），意外邂逅以偶像为目标的少女（僵尸）。拥有必须守护之物的主人公，支援少女们的同时，也为了拯救他人而开始战斗。
+集合伙伴，加深羁绊。有时参与残酷的僵尸生意以筹集活动资金。首次演唱会上，少女们同时经历了华丽的失败和成功；主人公在暗中处理来自黑帮的插手。
+腐烂的人生？不，僵尸也能闪光！少女们在舞台上证明自己还活着。
+
+[200424][あかべぇそふとすりぃ] 墓多DYINGZOMBIES～Second Chance for BEAUTIFUL LIVE～中国語版 (files) {直顺哉个人汉化} tmrf
+Baidu 477p 123 dxE6 微软直链
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>あかべぇそふとすりぃ</tag>
+        <tag>直顺哉个人汉化</tag>
+        <tag>七色なづ</tag>
+        <tag>柳葉桃夜</tag>
+        <tag>高橋左手</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【汉化】在这苍穹展翅 GIFT EDITION</title>
     <url>/a625cffb/</url>
     <content><![CDATA[
@@ -24603,46 +24684,6 @@ Baidu us7n 123 bAip 微软直链
         <tag>基井あゆむ</tag>
         <tag>八島タカヒロ</tag>
         <tag>紺野アスタ</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化】墓多DYINGZOMBIES～Second Chance for BEAUTIFUL LIVE～</title>
-    <url>/ebc100af/</url>
-    <content><![CDATA[
-
-品牌：あかべぇそふとすりぃ
-
-发售日期：2020&#x2F;04&#x2F;24
-
-类型：ADV &#x2F; 直顺哉个人汉化
-
-原画：七色なづ
-
-剧本：柳葉桃夜、高橋左手
-
-
-『 墓多DYINGZOMBIES～Second Chance for BEAUTIFUL LIVE～ 』
-▼ 故事简介：修罗之城，墓多，行尸走肉之地。僵尸没有未来，光是活着就已拼尽全力。
-这样的世界里，却有少女（僵尸）不忘初心。在修罗之城悠闲度日，原谍报机关特工的丸绵（主人公），意外邂逅以偶像为目标的少女（僵尸）。拥有必须守护之物的主人公，支援少女们的同时，也为了拯救他人而开始战斗。
-集合伙伴，加深羁绊。有时参与残酷的僵尸生意以筹集活动资金。首次演唱会上，少女们同时经历了华丽的失败和成功；主人公在暗中处理来自黑帮的插手。
-腐烂的人生？不，僵尸也能闪光！少女们在舞台上证明自己还活着。
-
-[200424][あかべぇそふとすりぃ] 墓多DYINGZOMBIES～Second Chance for BEAUTIFUL LIVE～中国語版 (files) {直顺哉个人汉化} tmrf
-Baidu 477p 123 dxE6 微软直链
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>あかべぇそふとすりぃ</tag>
-        <tag>直顺哉个人汉化</tag>
-        <tag>七色なづ</tag>
-        <tag>柳葉桃夜</tag>
-        <tag>高橋左手</tag>
       </tags>
   </entry>
   <entry>
@@ -27390,38 +27431,40 @@ Baidu p7pt 123 OTWY 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【汉化】我与她的互助生活／僕と彼女のご奉仕同棲 ～Theもーしょん～</title>
-    <url>/86f7cf70/</url>
+    <title>【汉化】我们逐渐学会了禁忌的游戏～风云相讨学园FLAT2～ 超完全版／僕たちはいけない遊びを覚えてゆく～風雲相討学園フラット2～</title>
+    <url>/46f90a76/</url>
     <content><![CDATA[
 
-品牌：とこはな
+品牌：ネガティブギャング
 
-发售日期：2022-01-28
+发售日期：2020&#x2F;08&#x2F;09
 
-类型：ADV &#x2F; 月之滨汉化组
+类型：ADV &#x2F; 甜族星人赞助汉化
 
-原画：さくらねこ
+原画：yizumi
 
-声优：猫村ゆき
-
-剧本：たにかわたかみ
+剧本：yizumi
 
 
-『 僕と彼女のご奉仕同棲 ～Theもーしょん～ 』
-『 我与她的互助生活 』
-祝大家元旦快乐！！
-▼ 故事简介津田慧的父母出差在外，他和保姆住在企业家爷爷留下的别墅。
-有一天，保姆因事故住院。
-在事故现场的鹿岛诗乃，觉得事故与自己有关，决定代替保姆过来照顾津田慧。
-对于同班同学鹿岛诗乃，津田慧本就有好感，她竟然要过来当女仆？就这样，津田慧和鹿岛诗乃的小鹿乱撞的同居生活开始了。
+『 僕たちはいけない遊びを覚えてゆく～風雲相討学園フラット2～ 』
+『 我们逐渐学会了禁忌的游戏～风云相讨学园FLAT2～ 超完全版 』
+▼ 故事简介校园浪漫喜剧18禁ADV！重点在于和女孩子的对话，通过选择数量超过1000的选择肢来推进故事。
+女主角是8(+α)位的多重结局形式。基底CG161张，包含差分在内则超过1300张。预计游玩时间是大约34小时。
+【浪漫喜剧ADV】明天是期待的入学典礼。可是……家是因为火灾烧毁了……！！故事是从在表亲的女孩子家寄居开始。
+【好感度系统】好感度会根据行动和对话的选择肢而增减。如果不去好好地加深交流，就无法到达Happy End。
+【一鼓作气模式】是不时发生的特殊的对话模式。能够以不能保存的连续选择肢把好感度一口气提升，但要是惹怒了对方，也会攻略失败。
+【不是只有H是目标】先处理多次的对话和事件，好好地理解，H场景就到来了。性格各异的女主角们，是把她们的全部对你暴露出来。然后是，再持续一会儿的亲热日常！
+【闹腾的事件】不管怎样，校园生活都很快乐。和女主角等人没关系、怎样都行的事也很多，对不起！
+【多得没用的登场人物】8位女主角之外，还有超过20人的个性配角登场。请享受丰富的日常生活吧！
 ▼ 测试图
         
       
 
-▼ 月之滨汉化组 汉化作品汉化发布帖
-如 Windows 10 &#x2F; 11 的启动游戏时闪退，需要在启动项里取消勾选 Use D3D9EX (Only Windows 7/8) 。
-(18禁ゲーム)[220128][とこはな] 僕と彼女のご奉仕同棲 ～Theもーしょん～ 中国語版 (files) {月之滨汉化组} mvnq
-Baidu rxxu 直链 微软直链
+▼ 甜族星人赞助汉化作品
+更换更合适字体的方法如下:1.安装SIMHEI.TTF (已包含在游戏根目标)2.以游戏根目标中的 game_chs.exe 打开游戏这样应会换上更好的字体了。
+
+[200809][ネガティブギャング] 僕たちはいけない遊びを覚えてゆく～風雲相討学園フラット2～ 我们逐渐学会了禁忌的游戏～风云相讨学园FLAT2～ 超完全版 [汉化] (files) [甜族星人赞助汉化][v28943] j5yr
+Baidu 8r4d 直链 Telegram
 ]]></content>
       <categories>
         <category>视觉小说</category>
@@ -27430,13 +27473,10 @@ Baidu rxxu 直链 微软直链
       </categories>
       <tags>
         <tag>汉化</tag>
+        <tag>甜族星人赞助汉化</tag>
         <tag>ADV</tag>
-        <tag>猫村ゆき</tag>
-        <tag>动态</tag>
-        <tag>さくらねこ</tag>
-        <tag>とこはな</tag>
-        <tag>月之滨汉化组</tag>
-        <tag>たにかわたかみ</tag>
+        <tag>ネガティブギャング</tag>
+        <tag>yizumi</tag>
       </tags>
   </entry>
   <entry>
@@ -27505,40 +27545,38 @@ Baidu unrv 123 u286 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【汉化】我们逐渐学会了禁忌的游戏～风云相讨学园FLAT2～ 超完全版／僕たちはいけない遊びを覚えてゆく～風雲相討学園フラット2～</title>
-    <url>/46f90a76/</url>
+    <title>【汉化】我与她的互助生活／僕と彼女のご奉仕同棲 ～Theもーしょん～</title>
+    <url>/86f7cf70/</url>
     <content><![CDATA[
 
-品牌：ネガティブギャング
+品牌：とこはな
 
-发售日期：2020&#x2F;08&#x2F;09
+发售日期：2022-01-28
 
-类型：ADV &#x2F; 甜族星人赞助汉化
+类型：ADV &#x2F; 月之滨汉化组
 
-原画：yizumi
+原画：さくらねこ
 
-剧本：yizumi
+声优：猫村ゆき
+
+剧本：たにかわたかみ
 
 
-『 僕たちはいけない遊びを覚えてゆく～風雲相討学園フラット2～ 』
-『 我们逐渐学会了禁忌的游戏～风云相讨学园FLAT2～ 超完全版 』
-▼ 故事简介校园浪漫喜剧18禁ADV！重点在于和女孩子的对话，通过选择数量超过1000的选择肢来推进故事。
-女主角是8(+α)位的多重结局形式。基底CG161张，包含差分在内则超过1300张。预计游玩时间是大约34小时。
-【浪漫喜剧ADV】明天是期待的入学典礼。可是……家是因为火灾烧毁了……！！故事是从在表亲的女孩子家寄居开始。
-【好感度系统】好感度会根据行动和对话的选择肢而增减。如果不去好好地加深交流，就无法到达Happy End。
-【一鼓作气模式】是不时发生的特殊的对话模式。能够以不能保存的连续选择肢把好感度一口气提升，但要是惹怒了对方，也会攻略失败。
-【不是只有H是目标】先处理多次的对话和事件，好好地理解，H场景就到来了。性格各异的女主角们，是把她们的全部对你暴露出来。然后是，再持续一会儿的亲热日常！
-【闹腾的事件】不管怎样，校园生活都很快乐。和女主角等人没关系、怎样都行的事也很多，对不起！
-【多得没用的登场人物】8位女主角之外，还有超过20人的个性配角登场。请享受丰富的日常生活吧！
+『 僕と彼女のご奉仕同棲 ～Theもーしょん～ 』
+『 我与她的互助生活 』
+祝大家元旦快乐！！
+▼ 故事简介津田慧的父母出差在外，他和保姆住在企业家爷爷留下的别墅。
+有一天，保姆因事故住院。
+在事故现场的鹿岛诗乃，觉得事故与自己有关，决定代替保姆过来照顾津田慧。
+对于同班同学鹿岛诗乃，津田慧本就有好感，她竟然要过来当女仆？就这样，津田慧和鹿岛诗乃的小鹿乱撞的同居生活开始了。
 ▼ 测试图
         
       
 
-▼ 甜族星人赞助汉化作品
-更换更合适字体的方法如下:1.安装SIMHEI.TTF (已包含在游戏根目标)2.以游戏根目标中的 game_chs.exe 打开游戏这样应会换上更好的字体了。
-
-[200809][ネガティブギャング] 僕たちはいけない遊びを覚えてゆく～風雲相討学園フラット2～ 我们逐渐学会了禁忌的游戏～风云相讨学园FLAT2～ 超完全版 [汉化] (files) [甜族星人赞助汉化][v28943] j5yr
-Baidu 8r4d 直链 Telegram
+▼ 月之滨汉化组 汉化作品汉化发布帖
+如 Windows 10 &#x2F; 11 的启动游戏时闪退，需要在启动项里取消勾选 Use D3D9EX (Only Windows 7/8) 。
+(18禁ゲーム)[220128][とこはな] 僕と彼女のご奉仕同棲 ～Theもーしょん～ 中国語版 (files) {月之滨汉化组} mvnq
+Baidu rxxu 直链 微软直链
 ]]></content>
       <categories>
         <category>视觉小说</category>
@@ -27547,10 +27585,13 @@ Baidu 8r4d 直链 Telegram
       </categories>
       <tags>
         <tag>汉化</tag>
-        <tag>甜族星人赞助汉化</tag>
         <tag>ADV</tag>
-        <tag>ネガティブギャング</tag>
-        <tag>yizumi</tag>
+        <tag>猫村ゆき</tag>
+        <tag>动态</tag>
+        <tag>さくらねこ</tag>
+        <tag>とこはな</tag>
+        <tag>月之滨汉化组</tag>
+        <tag>たにかわたかみ</tag>
       </tags>
   </entry>
   <entry>
@@ -29042,6 +29083,62 @@ Baidu w42n 直链 微软直链
       </tags>
   </entry>
   <entry>
+    <title>【汉化】流景之海的艾佩理雅</title>
+    <url>/59bd8200/</url>
+    <content><![CDATA[
+
+品牌：シルキーズプラス DOLCE
+
+发售日期：2017&#x2F;07&#x2F;28
+
+类型：ADV &#x2F; 萌AI同好会汉化
+
+原画：いつい
+
+剧本：範乃秋晴
+
+
+『 景の海のアペイリア 』
+『 流景之海的艾佩理雅 』
+▼ 故事简介：名字、样子、所在地一概不知。就连是否存在也无法确定。尽管如此，我必会将你找出来——
+「这个信息发送自未来」
+2045年冬。
+双叶学园的萌AI研究会所属・桐岛零一、在阴差阳错下成功开发出了具有自我意识的人工智能・艾佩莉雅（アペイリア）。（naji：希腊语，无限之意）
+——想被触碰，因电脑中“她”的这句话、零一和AI研究会的部员们一同开始摸索起能够接触到数据化的她的方法。
+其后，通过利用艾佩莉雅的机能，成功制作出了完全潜入型VRMMO游戏「Second（セカンド）」。
+那是个融合了剑、魔法及科学的假想世界，作为零一们的第二个现实，欢欣雀跃的他们开始了冒险。
+然而，「Second」其实是个无法制御的危险游戏。
+为了拯救被困在假想世界的艾佩莉雅，零一和部员们也堵上了自己性命并登入了游戏。
+拥有自我的人工智能・艾佩莉雅、她的开发者・零一、以及他们的伙伴、在此为您献上这份饱含恋爱与青春的科幻冒险物语。
+——不久、零一还发现了一个假说。有人，正试图夺取艾佩莉雅。
+▼ 测试图
+        
+      
+
+▼ 萌AI同好会 汉化作品2025-02-03 汉化更新 V1.01
+资源重压，并更新了汉化增量补丁修正了一处错译
+[170728][シルキーズプラス DOLCE] 景の海のアペイリア 中国語版 v1.01 (files) {萌AI同好会} kwsx
+Baidu hphn 微软直链 直链
+✦汉化联动
+【本篇】流景之海的艾佩理雅
+【FD】景之海的艾佩莉亚～卡萨布兰卡的骑士～
+
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>シルキーズプラス DOLCE</tag>
+        <tag>萌AI同好会</tag>
+        <tag>いつい</tag>
+        <tag>範乃秋晴</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>【汉化】海与雪的青蓝色</title>
     <url>/1b48cad5/</url>
     <content><![CDATA[
@@ -29106,62 +29203,6 @@ Baidu 4dg3 123 phld 微软直链
         <tag>涼原なつき</tag>
         <tag>伏見美咲</tag>
         <tag>Peak A Soul+</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>【汉化】流景之海的艾佩理雅</title>
-    <url>/59bd8200/</url>
-    <content><![CDATA[
-
-品牌：シルキーズプラス DOLCE
-
-发售日期：2017&#x2F;07&#x2F;28
-
-类型：ADV &#x2F; 萌AI同好会汉化
-
-原画：いつい
-
-剧本：範乃秋晴
-
-
-『 景の海のアペイリア 』
-『 流景之海的艾佩理雅 』
-▼ 故事简介：名字、样子、所在地一概不知。就连是否存在也无法确定。尽管如此，我必会将你找出来——
-「这个信息发送自未来」
-2045年冬。
-双叶学园的萌AI研究会所属・桐岛零一、在阴差阳错下成功开发出了具有自我意识的人工智能・艾佩莉雅（アペイリア）。（naji：希腊语，无限之意）
-——想被触碰，因电脑中“她”的这句话、零一和AI研究会的部员们一同开始摸索起能够接触到数据化的她的方法。
-其后，通过利用艾佩莉雅的机能，成功制作出了完全潜入型VRMMO游戏「Second（セカンド）」。
-那是个融合了剑、魔法及科学的假想世界，作为零一们的第二个现实，欢欣雀跃的他们开始了冒险。
-然而，「Second」其实是个无法制御的危险游戏。
-为了拯救被困在假想世界的艾佩莉雅，零一和部员们也堵上了自己性命并登入了游戏。
-拥有自我的人工智能・艾佩莉雅、她的开发者・零一、以及他们的伙伴、在此为您献上这份饱含恋爱与青春的科幻冒险物语。
-——不久、零一还发现了一个假说。有人，正试图夺取艾佩莉雅。
-▼ 测试图
-        
-      
-
-▼ 萌AI同好会 汉化作品2025-02-03 汉化更新 V1.01
-资源重压，并更新了汉化增量补丁修正了一处错译
-[170728][シルキーズプラス DOLCE] 景の海のアペイリア 中国語版 v1.01 (files) {萌AI同好会} kwsx
-Baidu hphn 微软直链 直链
-✦汉化联动
-【本篇】流景之海的艾佩理雅
-【FD】景之海的艾佩莉亚～卡萨布兰卡的骑士～
-
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>シルキーズプラス DOLCE</tag>
-        <tag>萌AI同好会</tag>
-        <tag>いつい</tag>
-        <tag>範乃秋晴</tag>
       </tags>
   </entry>
   <entry>
@@ -32492,53 +32533,6 @@ Baidu 5hrb 123 7XZu 微软直链
       </tags>
   </entry>
   <entry>
-    <title>【汉化】这份恋情、暂时待定、情人节小剧场Z</title>
-    <url>/c6d60399/</url>
-    <content><![CDATA[
-
-品牌：Sonokoi Horyu
-
-发售日期：2022-02-11
-
-类型：ADV &#x2F; 绿茶汉化组
-
-原画：ととと
-
-剧本：ととと
-
-
-『 その恋暫定につき、バレンタインシチュエーションボイスＺ 』
-『这份恋情、暂时待定、情人节小剧场Z』
-▼ 故事简介：ヒロインたちからチョコレートをもらうシチュエーションボイス企画！気になるあの娘は一体どんなチョコレートを作ってくれるのか！？プレイ時間10分程度でサクッと遊べる短編作品！！この作品をプレイすれば最低3つの”本命”チョコレートが貰えます！！シリーズ未プレイでもバレンタインの雰囲気を楽しむことができます！！
-
-[220211][その恋、保留につき、応援委員会] その恋、暫定につき、バレンタインシチュエーションボイスＺ 中国語版 (files) {绿茶汉化组} 836a
-Baidu cs50 123 vYgT 微软直链
-
-✦汉化联动及游玩顺序
-【汉化】这份恋情、予以保留
-【汉化】这份恋情、予以保留、游园会
-【汉化】这份恋情、予以保留、情人节小剧场
-【汉化】这份恋情、暂时待定、
-【汉化】这份恋情、暂时待定、情人节小剧场Z
-【汉化】这份恋情、迎来終焉。
-【汉化】这份恋情迎来終焉 情人节小剧场X
-【Tyranor】这份恋情系列
-
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>绿茶汉化组</tag>
-        <tag>ととと</tag>
-        <tag>Sonokoi Horyu</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【汉化】这份恋情、迎来终焉。</title>
     <url>/d2e5cf0d/</url>
     <content><![CDATA[
@@ -32586,6 +32580,53 @@ Baidu ecr6 123 9BNX 微软直链
         <tag>ととと</tag>
         <tag>Sonokoi Horyu</tag>
         <tag>ばにろう</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【汉化】这份恋情、暂时待定、情人节小剧场Z</title>
+    <url>/c6d60399/</url>
+    <content><![CDATA[
+
+品牌：Sonokoi Horyu
+
+发售日期：2022-02-11
+
+类型：ADV &#x2F; 绿茶汉化组
+
+原画：ととと
+
+剧本：ととと
+
+
+『 その恋暫定につき、バレンタインシチュエーションボイスＺ 』
+『这份恋情、暂时待定、情人节小剧场Z』
+▼ 故事简介：ヒロインたちからチョコレートをもらうシチュエーションボイス企画！気になるあの娘は一体どんなチョコレートを作ってくれるのか！？プレイ時間10分程度でサクッと遊べる短編作品！！この作品をプレイすれば最低3つの”本命”チョコレートが貰えます！！シリーズ未プレイでもバレンタインの雰囲気を楽しむことができます！！
+
+[220211][その恋、保留につき、応援委員会] その恋、暫定につき、バレンタインシチュエーションボイスＺ 中国語版 (files) {绿茶汉化组} 836a
+Baidu cs50 123 vYgT 微软直链
+
+✦汉化联动及游玩顺序
+【汉化】这份恋情、予以保留
+【汉化】这份恋情、予以保留、游园会
+【汉化】这份恋情、予以保留、情人节小剧场
+【汉化】这份恋情、暂时待定、
+【汉化】这份恋情、暂时待定、情人节小剧场Z
+【汉化】这份恋情、迎来終焉。
+【汉化】这份恋情迎来終焉 情人节小剧场X
+【Tyranor】这份恋情系列
+
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>绿茶汉化组</tag>
+        <tag>ととと</tag>
+        <tag>Sonokoi Horyu</tag>
       </tags>
   </entry>
   <entry>
@@ -33207,50 +33248,6 @@ Baidu hc3n 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【汉化】雾上的伊拉斯谟</title>
-    <url>/8396a6f0/</url>
-    <content><![CDATA[
-
-开发：NOVECT
-
-发售日期：2011-05-01
-
-类型：ADV &#x2F; 汉化
-
-剧本：縹けいか
-
-原画：靄太郎
-
-
-『 霧上のエラスムス - The Erasmus two-faced stories 』
-『 雾上的伊拉斯谟 』
-▼ 故事简介由表与里两个真相交织而成的残酷群像悬疑剧，2011年发布。※《雾上的伊拉斯谟》是一部独立的短篇作品。即使未体验过其他作品，也能尽情享受。预计游戏时间：
-本篇剧情约2~3小时，含番外剧情约4~5小时。
-▼ 测试图
-        
-      
-
-▼ 汉化版汉化发布帖
-
-2025&#x2F;7&#x2F;1修复或优化以下内容：1.解压时不需要修改编码或转区2.不需要使用LocaleEmulator转区工具，可以直接打开游戏程序3.标题页面 UI、过场图片等全汉化(音乐馆歌词除外)4.开头制作人员图片显示不齐问题5.Blacklog滚轮向上后字体残缺问题6.没有通关本篇就能游玩番外的问题7.增加窗口小标题翻译8.修改部分文本
-
-[110501][NOVECT] 霧上のエラスムス - The Erasmus two-faced stories 雾上的伊拉斯谟 [汉化] (files) [v14879] 4hmz
-Baidu 6eqs 直链 Telegram
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-        <category>汉化</category>
-        <category>中文硬盘</category>
-      </categories>
-      <tags>
-        <tag>汉化</tag>
-        <tag>ADV</tag>
-        <tag>NOVECT</tag>
-        <tag>縹けいか</tag>
-        <tag>靄太郎</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【汉化】霞流宝石心 -壮志凌云振寰宇-</title>
     <url>/e3eb6183/</url>
     <content><![CDATA[
@@ -33296,6 +33293,50 @@ Baidu m2jn 123 Ac3r 微软直链
         <tag>しらたま</tag>
         <tag>冬茜トム</tag>
         <tag>破琵琶生产公社</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【汉化】雾上的伊拉斯谟</title>
+    <url>/8396a6f0/</url>
+    <content><![CDATA[
+
+开发：NOVECT
+
+发售日期：2011-05-01
+
+类型：ADV &#x2F; 汉化
+
+剧本：縹けいか
+
+原画：靄太郎
+
+
+『 霧上のエラスムス - The Erasmus two-faced stories 』
+『 雾上的伊拉斯谟 』
+▼ 故事简介由表与里两个真相交织而成的残酷群像悬疑剧，2011年发布。※《雾上的伊拉斯谟》是一部独立的短篇作品。即使未体验过其他作品，也能尽情享受。预计游戏时间：
+本篇剧情约2~3小时，含番外剧情约4~5小时。
+▼ 测试图
+        
+      
+
+▼ 汉化版汉化发布帖
+
+2025&#x2F;7&#x2F;1修复或优化以下内容：1.解压时不需要修改编码或转区2.不需要使用LocaleEmulator转区工具，可以直接打开游戏程序3.标题页面 UI、过场图片等全汉化(音乐馆歌词除外)4.开头制作人员图片显示不齐问题5.Blacklog滚轮向上后字体残缺问题6.没有通关本篇就能游玩番外的问题7.增加窗口小标题翻译8.修改部分文本
+
+[110501][NOVECT] 霧上のエラスムス - The Erasmus two-faced stories 雾上的伊拉斯谟 [汉化] (files) [v14879] 4hmz
+Baidu 6eqs 直链 Telegram
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+        <category>汉化</category>
+        <category>中文硬盘</category>
+      </categories>
+      <tags>
+        <tag>汉化</tag>
+        <tag>ADV</tag>
+        <tag>NOVECT</tag>
+        <tag>縹けいか</tag>
+        <tag>靄太郎</tag>
       </tags>
   </entry>
   <entry>
@@ -33929,29 +33970,6 @@ Baidu e356 直链 Telegram
       </tags>
   </entry>
   <entry>
-    <title>【资讯】ALCOT 20th 最终作《CLOVER MEMORYS》预告已公布</title>
-    <url>/42b2c87c/</url>
-    <content><![CDATA[
-
-ALCOT 20th 最終作《CLOVER MEMORYS》ティザームービー公開致しました
-企画：空下元シナリオ：空下元、宮蔵メイン原画：あゆま紗由、橋本タカシ、真崎ケイ
-公式サイト：https://www.alcot.biz/product/clm/index.html
-ティザームービー：https://www.youtube.com/watch?v=b6tseIPTiNc&amp;t=1s
-]]></content>
-      <categories>
-        <category>视觉小说</category>
-      </categories>
-      <tags>
-        <tag>空下元</tag>
-        <tag>あゆま紗由</tag>
-        <tag>宮蔵</tag>
-        <tag>橋本タカシ</tag>
-        <tag>ALCOT</tag>
-        <tag>资讯</tag>
-        <tag>真崎ケイ</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>【转载】1月22日杂谈</title>
     <url>/bf9d03f6/</url>
     <content><![CDATA[转载自头蟹床(Headcrabbed)
@@ -34017,6 +34035,29 @@ JavaScript。由于上一个玩意儿（花园与 Bangumi 的结合）的需要�
         <tag>杂谈</tag>
         <tag>转载</tag>
         <tag>头蟹床(Headcrabbed)</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>【资讯】ALCOT 20th 最终作《CLOVER MEMORYS》预告已公布</title>
+    <url>/42b2c87c/</url>
+    <content><![CDATA[
+
+ALCOT 20th 最終作《CLOVER MEMORYS》ティザームービー公開致しました
+企画：空下元シナリオ：空下元、宮蔵メイン原画：あゆま紗由、橋本タカシ、真崎ケイ
+公式サイト：https://www.alcot.biz/product/clm/index.html
+ティザームービー：https://www.youtube.com/watch?v=b6tseIPTiNc&amp;t=1s
+]]></content>
+      <categories>
+        <category>视觉小说</category>
+      </categories>
+      <tags>
+        <tag>空下元</tag>
+        <tag>あゆま紗由</tag>
+        <tag>宮蔵</tag>
+        <tag>橋本タカシ</tag>
+        <tag>ALCOT</tag>
+        <tag>资讯</tag>
+        <tag>真崎ケイ</tag>
       </tags>
   </entry>
   <entry>
