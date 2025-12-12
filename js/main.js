@@ -799,7 +799,11 @@ function initBannerSlider() {
   const nextBtn = slider.querySelector('.slider-next');
   const indicatorContainer = slider.querySelector('.slider-indicators');
 
-  let currentIndex = 0;
+  // 从 sessionStorage 恢复上次的索引，如果没有则从 0 开始
+  let currentIndex = parseInt(sessionStorage.getItem('bannerSliderIndex')) || 0;
+  // 确保索引在有效范围内
+  if (currentIndex >= cards.length) currentIndex = 0;
+
   let isAnimating = false;
 
   // 初始化轮播图
@@ -808,13 +812,13 @@ function initBannerSlider() {
     cards.forEach((_, index) => {
       const indicator = document.createElement('div');
       indicator.classList.add('slider-indicator');
-      if (index === 0) indicator.classList.add('active');
+      if (index === currentIndex) indicator.classList.add('active');
       indicator.addEventListener('click', () => goToSlide(index));
       indicatorContainer.appendChild(indicator);
     });
 
-    // 激活第一张卡片
-    cards[0].classList.add('active');
+    // 激活当前索引的卡片
+    cards[currentIndex].classList.add('active');
   }
 
   // 跳转到指定幻灯片
@@ -827,6 +831,9 @@ function initBannerSlider() {
 
     // 更新索引
     currentIndex = index;
+
+    // 保存当前索引到 sessionStorage
+    sessionStorage.setItem('bannerSliderIndex', currentIndex);
 
     // 显示新卡片
     cards[currentIndex].classList.add('active');
@@ -868,12 +875,12 @@ function initBannerSlider() {
   prevBtn.addEventListener('click', prevSlide);
 
   // 自动轮播
-  let interval = setInterval(nextSlide, 3000);
+  let interval = setInterval(nextSlide, 2200);
 
   // 鼠标悬停暂停轮播
   slider.addEventListener('mouseenter', () => clearInterval(interval));
   slider.addEventListener('mouseleave', () => {
-    interval = setInterval(nextSlide, 3000);
+    interval = setInterval(nextSlide, 2200);
   });
 }
 
