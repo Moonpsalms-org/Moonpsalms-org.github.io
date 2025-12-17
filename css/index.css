@@ -277,30 +277,6 @@ div.videos[col='4'] iframe {
   font-size: inherit;
   letter-spacing: normal;
 }
-.st-btn {
-  display: inline-block;
-  padding: 0.5rem 1rem;
-  margin: 0.5rem;
-  border: var(--style-border);
-  border-radius: 8px;
-  background-color: var(--efu-card-btn-bg);
-  color: var(--efu-fontcolor);
-  text-decoration: none;
-  cursor: pointer;
-  transition: all 0.3s;
-}
-.st-btn:hover {
-  border: var(--style-border-hover);
-  background-color: var(--efu-theme-op);
-}
-.st-btn i {
-  font-size: 1.2em;
-  vertical-align: middle;
-  transition: all 0.3s;
-}
-.st-btn span {
-  margin-left: 0.5em;
-}
 .spoiler.blur-text {
   filter: blur(3px) !important;
   padding: 5px;
