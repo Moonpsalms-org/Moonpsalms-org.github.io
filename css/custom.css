@@ -1,3 +1,38 @@
+/* 侧边栏公告卡片（仅作用于 card-notice） */
+/* 与卡片标题（.item-headline 的 margin-left: 8px）对齐，正文弱一级 */
+.card-notice .notice-container {
+  margin: 0 8px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  line-height: 1.7;
+  color: var(--efu-secondtext, #b3b3b3);
+}
+
+/* 多条公告之间分段 */
+.card-notice .notice-container > div + div {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--efu-border-color, #e3e8f7);
+}
+
+/* 与文章正文链接同款样式 */
+.card-notice .notice-container a {
+  color: var(--efu-fontcolor);
+  padding: 0 4px;
+  border-bottom: 2px dotted var(--efu-lighttext);
+  border-radius: 4px 4px 0 0;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.card-notice .notice-container a:hover {
+  color: var(--efu-white);
+  border: 0;
+  border-radius: 4px;
+  background: var(--efu-main);
+  text-decoration: none;
+}
+
 /* 分类侧边栏样式 */
 .card-categories {
   padding: 20px;
